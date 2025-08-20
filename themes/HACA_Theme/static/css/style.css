@@ -1,3 +1,22 @@
+h1, h2, h3, h4, h5, h6 {
+  color: #ae2573;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  text-align: center;
+  max-width: none;
+}
+.split-text h1,
+.split-text h2,
+.split-text h3,
+.split-text h4,
+.split-text h5,
+.split-text h6 {
+  color: #ae2573;
+}
 /* Conference Programme Table Styles */
 .programme-table {
   width: 100%;
@@ -152,7 +171,7 @@
 }
 .split-text {
   flex: 1;
-  padding: 4rem;
+  padding: 4rem 4rem 2rem 4rem;
   color: #fff;
   background-image: url('/img/HACA Background 1.jpg'); /* Replace with your preferred image */
   display: flex;
@@ -161,11 +180,34 @@
   border-radius: 8px; /* Optional: rounded corners */
   height: 100%;
 }
+
 .split-image {
   flex: 1;
   background-size: cover;
   background-position: center;
   min-height: 300px;
+  align-items: flex-start;
+}
+
+.image-text-row {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}
+
+.image-left {
+  max-width: 450px;
+  height: auto;
+  border-radius: 8px;
+}
+.text-right {
+  flex: 1;
 }
 
 /* Import theme variables */
