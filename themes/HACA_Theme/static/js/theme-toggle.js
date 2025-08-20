@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
   if (!btn) return;
   function updateIcon() {
     if(document.documentElement.classList.contains('dark-mode')) {
-      btn.textContent = '\u263E'; // ☾
+      btn.textContent = '🌙';
     } else {
       btn.textContent = '\u2600\uFE0F'; // ☀️
     }

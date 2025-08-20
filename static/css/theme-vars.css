@@ -1,3 +1,4 @@
+/* Light theme variables */
 :root {
     --navbar-banner-bg: #ae2573;
     --font-main: 'Arial, sans-serif';
@@ -33,7 +34,7 @@
     --border: #eee;
 }
 
-.dark {
+:root.dark-mode {
     --navbar-banner-bg: #731373;
     --font-main: 'Arial, sans-serif';
     --font-heading: 'Arial Black', Arial, sans-serif;

@@ -3,9 +3,13 @@ draft = false
 title = "HACA 2025 Conference"
 +++
 
-# Health and Care Analytics Conference 2025
-
-**Following the success of last year’s national conference, we’re excited to announce the return of the Health and Care Analytics (HACA) conference for 2025 for a third year and we’re going fully online!**
+<div class="hero-banner">
+  <div class="hero-content">
+    <h1>Health and Care Analytics Conference 2025</h1>
+    <p>Following the success of last year’s national conference, we’re excited to announce the return of the Health and Care Analytics (HACA) conference for 2025 for a third year and we’re going fully online!</p>
+    <div id="countdown"></div>
+  </div>
+</div>
 
 <div class="split-text-image">
   <div class="split-text left">
