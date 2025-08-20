@@ -333,14 +333,21 @@ h1, h2, h3, h4, h5, h6 {
 @import url("/css/theme-vars.css");
 
 body {
-  color: var(--body-color);
+  color: #222;
+  background: var(--bg);
   font-size: 125%;
-  line-height: 1.5;
+  line-height: 1.6;
+  letter-spacing: 0.02em;
   max-width: 45rem;
   padding: 1rem;
   margin: 0 auto;
-  background: var(--bg);
   font-family: var(--font-main, Arial, sans-serif);
+}
+
+a {
+  color: #ae2573;
+  text-decoration: underline;
+  font-weight: 600;
 }
 
 .content {
