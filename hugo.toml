@@ -1,16 +1,29 @@
 baseURL = "https://mynewhugosite.com"
-title = "My New Hugo Site"
+title = "Health and Care Analytics conference"
 theme = "HACA_Theme"
 
 [menu]
   [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts"
+    identifier = "HACA 2025 Registration"
+    name = "HACA 2025 Registration"
+    url = "/HACA_Registration"
     weight = 10
 
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about"
+    identifier = "HACA 2025 Abstracts"
+    name = "HACA 2025 Abstracts"
+    url = "/HACA_Abstracts"
     weight = 20
+
+    [[menu.main]]
+      identifier = "HACA 2025 Programme"
+      name = "HACA 2025 Programme"
+      url = "/HACA_Programme"
+      weight = 30
+
+      [[menu.main]]
+        identifier = "HACA Past Conferences"
+        name = "HACA Past Conferences"
+        url = "/HACA_Past_Conferences"
+        weight = 40
+    
