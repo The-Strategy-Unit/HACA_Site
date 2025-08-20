@@ -5,9 +5,13 @@
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-	<title>HACA 2025 Programme | Health and Care Analytics conference</title>
+	<title> | Health and Care Analytics conference</title>
 
-	<link rel="stylesheet" href="/css/style.css" type="text/css" media="all" />
+		<link rel="stylesheet" href="/css/theme-vars.css" type="text/css" media="all" />
+		<link rel="stylesheet" href="/css/theme-toggle.css" type="text/css" media="all" />
+		<link rel="stylesheet" href="/css/style.css" type="text/css" media="all" />
+		<script src="/js/accordion.js"></script>
+		<script src="/js/theme-toggle.js"></script>
 
 	</head>
 
@@ -16,7 +20,7 @@
 <div class="navbar-banner">
   <header class="site-header">
     <nav class="site-nav">
-      <a class="logo" href="http://localhost:1313/">
+  <a class="logo" href="/">
   <img src="/img/HACA Swirl BG.png" alt="Site Logo" style="height: 150px; display:block;" />
       </a>
       <ul class="main-menu">
@@ -39,6 +43,7 @@
         
       </ul>
     </nav>
+  <button id="theme-toggle" aria-label="Toggle light/dark mode" style="position:fixed;top:1rem;right:1rem;z-index:999;font-size:2rem;background:none;border:none;cursor:pointer;">☀️</button>
   </header>
 </div>
 
@@ -46,44 +51,91 @@
 <main class="content">
 
 
-<h1>HACA 2025 Programme</h1>
+<h1></h1>
 
-
+<div class="hero-banner">
+  <div class="hero-content">
+    <h1>HACA 2025 Programme</h1>
+    <p>Explore the detailed programme for the Health and Care Analytics Conference 2025.</p>
+  </div>
+</div>
+<table class="programme-table">
+	<thead>
+		<tr>
+			<th>Time</th>
+			<th>Session Title</th>
+			<th>Speaker</th>
+			<th>Location</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>09:00</td>
+			<td>Welcome & Opening Remarks</td>
+			<td>Dr. Smith</td>
+			<td>Main Hall</td>
+		</tr>
+		<tr>
+			<td>09:30</td>
+			<td>Keynote: Future of Analytics</td>
+			<td>Prof. Lee</td>
+			<td>Main Hall</td>
+		</tr>
+		<tr>
+			<td>10:15</td>
+			<td>Coffee Break</td>
+			<td></td>
+			<td>Foyer</td>
+		</tr>
+		<tr>
+			<td>10:45</td>
+			<td>Panel: Data in Healthcare</td>
+			<td>Various</td>
+			<td>Room A</td>
+		</tr>
+		<tr>
+			<td>12:00</td>
+			<td>Lunch</td>
+			<td></td>
+			<td>Dining Area</td>
+		</tr>
+	</tbody>
+</table>
 
 
 
 <footer class="footer-banner">
-		<div class="footer-content">
-			<div class="footer-logo-corner">
-				<img src="/img/HACA 2025 White.png" alt="Footer Logo" style="height:120px;" />
-			</div>
-					<div class="footer-social">
-						<a href="https://github.com/Nat-Stephenson/HACA_Site" target="_blank" rel="noopener" aria-label="GitHub">
-							<img src="/img/GitHub.png" alt="GitHub" style="height: 40px;" />
-						</a>
-						<a href="https://linkedin.com/company/haca-live/" target="_blank" rel="noopener" aria-label="LinkedIn">
-							<img src="/img/LinkedIn.png" alt="LinkedIn" style="height: 40px;" />
-						</a>
-					</div>
-							<div class="footer-sponsors" style="margin: 1rem 0; display: flex; gap: 1rem; justify-content: center; align-items: center;">
-								<a href="https://www.health.org.uk" target="_blank" rel="noopener" aria-label="Sponsor 1">
-									<img src="/img/HF Logo.jpg" alt="Sponsor 1" style="height: 60px;" />
-								</a>
-								<a href="https://www.strategyunitwm.nhs.uk" target="_blank" rel="noopener" aria-label="Sponsor 2">
-									<img src="/img/SU Brand Black.png" alt="Sponsor 2" style="height: 80px;" />
-								</a>
-								<a href="https://www.nhs.uk" target="_blank" rel="noopener" aria-label="Sponsor 3">
-									<img src="/img/NHS Logo.png" alt="Sponsor 3" style="height: 60px;" />
-								</a>
-							</div>
-											<div class="footer-links" style="margin: 1rem 0; position: absolute; right: 2rem; top: 50%; transform: translateY(-50%); text-align: right;">
-												<a href="/contact/" style="margin: 0 1rem; color: inherit; text-decoration: underline;">Contact Us</a>
-												<a href="/policy/" style="margin: 0 1rem; color: inherit; text-decoration: underline;">Policy</a>
-											</div>
-			<p style="margin-top:1rem;">&copy;2025 The Health and Care Analytics conference</p>
+	<div class="footer-content">
+		<div class="footer-logo-corner">
+			<img src="/img/HACA 2025 White.png" alt="Footer Logo" style="height:120px;" />
 		</div>
+			<div class="footer-social">
+				<a href="https://www.youtube.com/@HACA_Conference" target="_blank" rel="noopener" aria-label="YouTube">
+					<img src="/img/YouTube.png" alt="YouTube" style="height:40px;" />
+				</a>
+				<a href="https://github.com/Nat-Stephenson/HACA_Site" target="_blank" rel="noopener" aria-label="GitHub">
+					<img src="/img/GitHub.png" alt="GitHub" style="height:40px;" />
+				</a>
+				<a href="https://linkedin.com/company/haca-live/" target="_blank" rel="noopener" aria-label="LinkedIn">
+					<img src="/img/LinkedIn.png" alt="LinkedIn" style="height:40px;" />
+				</a>
+			</div>
+			<div class="footer-sponsors" style="margin:1rem 0; display:flex; gap:1rem; justify-content:center; align-items:center;">
+				<a href="https://www.health.org.uk" target="_blank" rel="noopener" aria-label="Sponsor 1">
+					<img src="/img/HF Logo.jpg" alt="Sponsor 1" style="height:60px;" />
+				</a>
+				<a href="https://www.strategyunitwm.nhs.uk" target="_blank" rel="noopener" aria-label="Sponsor 2">
+					<img src="/img/SU Brand Black.png" alt="Sponsor 2" style="height:80px;" />
+				</a>
+				<a href="https://www.nhs.uk" target="_blank" rel="noopener" aria-label="Sponsor 3">
+					<img src="/img/NHS Logo.png" alt="Sponsor 3" style="height:60px;" />
+				</a>
+			</div>
+			<div class="footer-links" style="margin:1rem 0; position:absolute; right:2rem; top:50%; transform:translateY(-50%); text-align:right;">
+				<a href="/contact/" style="margin:0 1rem; color:inherit; text-decoration:underline;">Contact Us</a>
+				<a href="/policy/" style="margin:0 1rem; color:inherit; text-decoration:underline;">Policy</a>
+			</div>
+		<p style="margin-top:1rem;">&copy;2025 The Health and Care Analytics conference</p>
+	</div>
 </footer>
-
-</body>
-</html>
 
