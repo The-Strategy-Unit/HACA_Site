@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:58773/haca_past_conferences/</loc>
+    <loc>http://localhost:1313/haca_past_conferences/</loc>
   </url><url>
-    <loc>http://localhost:58773/haca_registration/</loc>
+    <loc>http://localhost:1313/haca_registration/</loc>
   </url><url>
-    <loc>http://localhost:58773/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:58773/haca_abstracts/</loc>
+    <loc>http://localhost:1313/haca_abstracts/</loc>
   </url><url>
-    <loc>http://localhost:58773/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>http://localhost:58773/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

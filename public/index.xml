@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HACA 2025 Conference on Health and Care Analytics conference</title>
-    <link>http://localhost:58773/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in HACA 2025 Conference on Health and Care Analytics conference</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:58773/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:58773/haca_past_conferences/</link>
+      <link>http://localhost:1313/haca_past_conferences/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58773/haca_past_conferences/</guid>
+      <guid>http://localhost:1313/haca_past_conferences/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:58773/haca_registration/</link>
+      <link>http://localhost:1313/haca_registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58773/haca_registration/</guid>
+      <guid>http://localhost:1313/haca_registration/</guid>
       <description></description>
     </item>
     <item>
       <title>HACA 2025 Abstract Submission</title>
-      <link>http://localhost:58773/haca_abstracts/</link>
+      <link>http://localhost:1313/haca_abstracts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58773/haca_abstracts/</guid>
+      <guid>http://localhost:1313/haca_abstracts/</guid>
       <description>&lt;p&gt;We’re inviting abstract submissions for the Health and Care Analytics conference 2025 (HACA 2025) – the UK’s national conference for health and care analysts. This year’s conference will be held fully online on Wednesday 3rd and Thursday 4th December 2025.&lt;/p&gt;&#xA;&lt;p&gt;[add link here]&lt;/p&gt;&#xA;&lt;p&gt;Rising to the challenge: Analysis at the heart of health and care systems of the future&lt;/p&gt;&#xA;&lt;p&gt;Rooted in our ethos – by analysts, for analysts, with leaders – HACA 2025 is a space to share learning, inspire your peers, and spotlight how analysis is shaping the future of health and care.&lt;/p&gt;</description>
     </item>
   </channel>
