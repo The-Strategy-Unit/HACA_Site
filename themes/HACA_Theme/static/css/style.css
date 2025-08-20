@@ -1,3 +1,40 @@
+body.dark-mode .programme-table,
+body.dark-mode .programme-table th,
+body.dark-mode .programme-table td {
+  color: #fff;
+}
+body.dark-mode .programme-table {
+  background: #181a1b;
+}
+body.dark-mode .programme-table th {
+  background: #ae2573;
+}
+body.dark-mode .programme-table td {
+  background: #181a1b;
+}
+body.dark-mode .programme-table tr:nth-child(even) {
+  background: #232326;
+}
+body.dark-mode .programme-table tr:hover {
+  background: #ae2573;
+  color: #fff;
+}
+body.dark-mode .programme-table,
+body.dark-mode .programme-table th,
+body.dark-mode .programme-table td {
+  background: #181a1b;
+  color: #fff;
+}
+body.dark-mode .programme-table th {
+  background: #ae2573;
+}
+body.dark-mode .programme-table tr:nth-child(even) {
+  background: #232326;
+}
+body.dark-mode .programme-table tr:hover {
+  background: #ae2573;
+  color: #fff;
+}
 body.dark-mode .navbar-banner {
   background: #e825a6 !important;
   color: #fff !important;
