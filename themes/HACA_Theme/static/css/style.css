@@ -1,0 +1,178 @@
+.site-nav {
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  height: 120px;
+  display: block;
+}
+/* Need to style the footer logo in left corner */
+.footer-content {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.footer-logo-corner {
+  position: absolute;
+  left: 2rem;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.footer-logo-corner img {
+  height: 80px;
+  display: block;
+}
+.footer-social {
+  margin: 0 1rem;
+}
+/* Footer banner styles */
+/* Footer banner styles */
+.footer-banner {
+  width: 100vw;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  position: relative;
+  background: var(--navbar-banner-bg, #ae2573);
+  color: #fff;
+  padding: 1.5rem 0 1rem 0;
+  text-align: flex-start;
+  box-shadow: 0 -2px 4px rgba(0,0,0,0.05);
+  position: relative;
+  bottom: 0;
+}
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+.footer-logo img {
+  height: 40px;
+}
+.footer-social {
+  margin: 0.5rem 0;
+}
+.footer-social a {
+  display: inline-block;
+  margin: 0 0.5rem;
+}
+.footer-social img {
+  height: 24px;
+  vertical-align: middle;
+}
+/* Banner for navbar */
+/* Banner for navbar */
+/* Banner for navbar */
+.navbar-banner {
+  width: 100vw;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  position: relative;
+  background: #fff;
+  color: #ae2573;
+  padding: 1rem 0;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+/* Import theme variables */
+@import url("/css/theme-vars.css");
+
+
+
+.site-nav {
+  display: flex;
+}
+
+/* Removed stray property outside selector block */
+
+.site-nav .logo {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-secondary, Helvetica Neue, Helvetica, Arial, sans-serif);
+}
+
+@media screen and (max-width: 48rem) {
+  .site-nav,
+  .main-menu {
+    flex-direction: column;
+  }
+
+  .site-nav a {
+    padding: 0.5rem;
+  }
+}
+
+
+/* Import theme variables */
+@import url("/css/theme-vars.css");
+
+body {
+  color: var(--body-color, #333);
+  font-size: 125%;
+  line-height: 1.5;
+  max-width: 45rem;
+  padding: 1rem;
+  margin: 0 auto;
+  background: var(--bg, #fff);
+  font-family: var(--font-main, Arial, sans-serif);
+}
+
+.content {
+  margin-bottom: 2rem;
+}
+
+/* NAVIGATION */
+
+.site-nav {
+  display: flex;
+}
+
+.site-nav a {
+  display: block;
+  padding: 1rem;
+}
+
+.site-nav .logo {
+  font-weight: bold;
+  padding-left: 0;
+  font-family: var(--font-heading, Arial Black, Arial, sans-serif);
+}
+
+.main-menu {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-secondary, Helvetica Neue, Helvetica, Arial, sans-serif);
+}
+
+@media screen and (max-width: 48rem) {
+  .site-nav,
+  .main-menu {
+    flex-direction: column;
+  }
+
+  .site-nav a {
+    padding: 0.5rem;
+    padding-left: 0;
+  }
+}
+
+/* LISTS */
+
+.post-snippet {
+  margin-bottom: 1rem;
+}
+
+.post-snippet h3 {
+  margin-bottom: 0.25rem;
+}
