@@ -1,0 +1,18 @@
+:root {
+  --bg: #fff;
+  --body-color: #333;
+  --accent: #ae2573;
+}
+:root.dark-mode {
+  --bg: #330072;
+  --body-color: #731373;
+  --accent: #ae2573;
+}
+body {
+  background: var(--bg);
+  color: var(--body-color);
+}
+.accordion-toggle {
+  background: var(--accent);
+  color: var(--body-color);
+}
