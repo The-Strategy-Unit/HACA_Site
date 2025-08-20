@@ -2,6 +2,11 @@ baseURL = "https://mynewhugosite.com"
 title = "Health and Care Analytics conference"
 theme = "HACA_Theme"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [menu]
   [[menu.main]]
     identifier = "HACA 2025 Registration"
