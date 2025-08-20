@@ -1,3 +1,28 @@
+/* Conference Programme Table Styles */
+.programme-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2rem 0;
+  font-size: 1.05rem;
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+.programme-table th, .programme-table td {
+  border: 1px solid #e0e0e0;
+  padding: 0.75rem 1rem;
+  text-align: left;
+}
+.programme-table th {
+  background: var(--purple, #5a0a96);
+  color: #fff;
+  font-weight: 600;
+}
+.programme-table tr:nth-child(even) {
+  background: #f6f8fa;
+}
+.programme-table tr:hover {
+  background: #eae6f7;
+}
 .site-nav {
   display: flex;
   align-items: center;

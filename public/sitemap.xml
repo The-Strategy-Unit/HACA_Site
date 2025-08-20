@@ -4,11 +4,11 @@
   <url>
     <loc>http://localhost:1313/haca_past_conferences/</loc>
   </url><url>
-    <loc>http://localhost:1313/haca_programme/</loc>
-  </url><url>
     <loc>http://localhost:1313/haca_registration/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/haca_abstracts/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>
