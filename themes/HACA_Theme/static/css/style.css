@@ -138,6 +138,7 @@ body.dark-mode .navbar-banner {
 .footer-social a {
   display: inline-block;
   margin: 0 0.5rem;
+  color: #fff
 }
 .footer-social img {
   height: 24px;
