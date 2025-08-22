@@ -32,3 +32,22 @@ theme = "HACA_Theme"
         url = "/HACA_Past_Conferences"
         weight = 40
       
+[params]
+
+# Social media links
+
+  [[params.social]]
+    icon = "youtube"
+    icon_pack = "fab"
+    url = "https://www.youtube.com/@HACA_Conference"
+
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fab"
+    url = "https://github.com/The-Strategy-Unit/HACA_Site"
+
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    url = "https://www.linkedin.com/company/haca-live/"
+
