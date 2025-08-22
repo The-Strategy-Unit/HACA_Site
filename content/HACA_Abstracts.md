@@ -5,7 +5,12 @@ title = 'HACA 2025 Abstract Submission'
 
 We’re inviting abstract submissions for the Health and Care Analytics conference 2025 (HACA 2025) – the UK’s national conference for health and care analysts. This year’s conference will be held fully online on Wednesday 3rd and Thursday 4th December 2025.
 
-[add link here]
+
+## Submit your abstract:
+
+- Submit your abstract [here](https://www.smartsurvey.co.uk/s/EYNV8E/)
+- Download full abstract submission guidance [here](https://live-haca.pantheonsite.io/wp-content/uploads/2025/07/HACA-2025-Abstract-Submission-Guidance.pdf)
+- If you have any questions or would like support with your submission, [email us](mailto:strategyunit.tnc@nhs.net) 
 
 Rising to the challenge: Analysis at the heart of health and care systems of the future
 
