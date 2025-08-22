@@ -41,7 +41,7 @@ title= ''
 			<td>10:45</td>
 			<td>Panel: Data in Healthcare</td>
 			<td>Various</td>
-			<td>Room A</td>
+			<td>Room B</td>
 		</tr>
 		<tr>
 			<td>12:00</td>
