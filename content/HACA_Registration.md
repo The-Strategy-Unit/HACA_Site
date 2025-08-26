@@ -10,10 +10,11 @@ Registration is free of charge and open to all those working in or with the UK h
 
 The conference will include:
 
-Inspiring keynote speakers
-Practical and thought-provoking sessions from across the system
-Opportunities to connect with peers and share learning
-A celebration of the vital role of analysts in health and care
+- Inspiring keynote speakers
+- Practical and thought-provoking sessions from across the system
+- Opportunities to connect with peers and share learning
+- A celebration of the vital role of analysts in health and care
+
 Click here to register for HACA 2025
 
 Once registered, you’ll receive confirmation and regular updates as the agenda is finalised.
