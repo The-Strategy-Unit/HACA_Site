@@ -15,7 +15,7 @@ The conference will include:
 - Opportunities to connect with peers and share learning
 - A celebration of the vital role of analysts in health and care
 
-Click here to register for HACA 2025
+[Register](https://haca-conference.nhs.uk/) for HACA 2025
 
 Once registered, you’ll receive confirmation and regular updates as the agenda is finalised.
 
