@@ -4,12 +4,12 @@ title= ''
 +++
 
 <div class="hero-banner">
-  <div class="hero-content">
-    <h1>HACA 2025 Programme</h1>
-    <p>Explore the detailed programme for the Health and Care Analytics Conference 2025.</p>
-  </div>
+<div class="hero-content">
+<h1>HACA 2025 Programme</h1>
+<p>Explore the detailed programme for the Health and Care Analytics Conference 2025.</p>
 </div>
-<table class="programme-table">
+</div>
+<!---<table class="programme-table">
 	<thead>
 		<tr>
 			<th>Time</th>
