@@ -8,6 +8,13 @@ theme = "HACA_Theme"
       unsafe = true
 
 [menu]
+
+  [[menu.main]]
+    identifier = "Home page"
+    name = "Home"
+    url = "/"
+    weight = 1
+
   [[menu.main]]
     identifier = "HACA 2025 Registration"
     name = "Registration"
