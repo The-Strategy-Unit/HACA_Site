@@ -1,18 +1,24 @@
 +++
 draft = false
-title = 'HACA 2025 Abstract Submission'
+title = ''
 +++
 
-We’re inviting abstract submissions for the Health and Care Analytics conference 2025 (HACA 2025) – the UK’s national conference for health and care analysts. This year’s conference will be held fully online on Wednesday 3rd and Thursday 4th December 2025.
+<div class="alt-hero-banner">
+  <div class="alt-hero-content">
+    <h1>Submit Your Abstract</h1>
+    <p>We’re inviting abstract submissions for the Health and Care Analytics conference 2025 (HACA 2025) – the UK’s national conference for health and care analysts. This year’s conference will be held fully online on Wednesday 3rd and Thursday 4th December 2025.</p>
+  </div>
+</div>
 
+<p>
+<ul>
+  <li><a href="https://www.smartsurvey.co.uk/s/EYNV8E/">Link to submit your abstract</a></li>
+  <li><a href="https://live-haca.pantheonsite.io/wp-content/uploads/2025/07/HACA-2025-Abstract-Submission-Guidance.pdf">Link to download full abstract submission guidance</a></li>
+  <li>If you have any questions or would like support with your submission, <a href="mailto:strategyunit.tnc@nhs.net">email us</a></li>
+</ul>
+</p>
 
-## Submit your abstract:
-
-- Submit your abstract [here](https://www.smartsurvey.co.uk/s/EYNV8E/)
-- Download full abstract submission guidance [here](https://live-haca.pantheonsite.io/wp-content/uploads/2025/07/HACA-2025-Abstract-Submission-Guidance.pdf)
-- If you have any questions or would like support with your submission, [email us](mailto:strategyunit.tnc@nhs.net) 
-
-Rising to the challenge: Analysis at the heart of health and care systems of the future
+<h4>Rising to the challenge: Analysis at the heart of health and care systems of the future</h4>
 
 Rooted in our ethos – by analysts, for analysts, with leaders – HACA 2025 is a space to share learning, inspire your peers, and spotlight how analysis is shaping the future of health and care.
 
@@ -20,16 +26,22 @@ We welcome submissions from public sector analysts and analytical teams across h
 
 We’re particularly interested in work that:
 
-Demonstrates practical learning and insights
-Shows the impact of analysis on decision-making
-Highlights innovation, creativity, and professional development
-Contributes to a stronger, more connected analytical community
+<ul>
+  <li>Demonstrates practical learning and insights</li>
+  <li>Shows the impact of analysis on decision-making</li>
+  <li>Highlights innovation, creativity, and professional development</li>
+  <li>Contributes to a stronger, more connected analytical community</li>
+</ul>
+
 We welcome submissions across four key themes central to the future challenges and opportunities in health and care:
 
-Shift from hospital to community
-Improving system flow and reducing waste
-Targeting care and investment for better impact and value
-Advancing analysis and professional development
+<ul>
+  <li>Shift from hospital to community</li>
+  <li>Improving system flow and reducing waste</li>
+  <li>Targeting care and investment for better impact and value</li>
+  <li>Advancing analysis and professional development</li>
+</ul>
+
 We also welcome abstracts that fall outside these categories but still reflect the creativity, rigour, and impact that analysts bring to health and care.
 
-Submission deadline: 07 September 2025
+<h2>Submission deadline: 07 September 2025</h2>
