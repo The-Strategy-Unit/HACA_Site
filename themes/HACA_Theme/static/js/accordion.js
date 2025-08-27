@@ -1,9 +1,15 @@
 document.addEventListener('DOMContentLoaded', function() {
-  document.querySelectorAll('.accordion-toggle').forEach(btn => {
+  document.querySelectorAll('.govuk-accordion__section-button').forEach(btn => {
     btn.addEventListener('click', function() {
-      this.classList.toggle('active');
-      let content = this.nextElementSibling;
-      content.style.display = content.style.display === 'block' ? 'none' : 'block';
+      const section = btn.closest('.govuk-accordion__section');
+      const content = section.querySelector('.govuk-accordion__section-content');
+      if (content.style.display === 'block') {
+        content.style.display = 'none';
+        btn.classList.remove('active');
+      } else {
+        content.style.display = 'block';
+        btn.classList.add('active');
+      }
     });
   });
 });
