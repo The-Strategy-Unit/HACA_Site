@@ -9,7 +9,7 @@ title= ''
   </div>
 </div>
 
-<img src="/img/Wesbite icon. coming soon.png" alt="Banner running across with 'coming soon'on it" style="display:block; margin:2rem auto; max-width:600px;" />
+<img src="/img/coming-soon.png" alt="Banner running across with 'coming soon'on it" style="display:block; margin:2rem auto; max-width:600px;" />
 
 <!--<table class="programme-table">
 	<thead>

@@ -20,11 +20,17 @@ title = ''
 
 <h4>Rising to the challenge: Analysis at the heart of health and care systems of the future</h4>
 
-Rooted in our ethos – by analysts, for analysts, with leaders – HACA 2025 is a space to share learning, inspire your peers, and spotlight how analysis is shaping the future of health and care.
+
+Rooted in our ethos – <em><b>by analysts, for analysts, with leaders</b></em> – HACA 2025 is a space to share learning, inspire your peers, and spotlight how analysis is shaping the future of health and care.
 
 We welcome submissions from public sector analysts and analytical teams across health and care. Whether you’re an experienced presenter or submitting for the first time, we encourage you to showcase your work, highlight its impact. Join a national community committed to demonstrating how analysis drives better outcomes and a stronger, fairer health and care system.
 
-We’re particularly interested in work that:
+<h3>We’re particularly interested in work that:</h3>
+
+- Demonstrates practical learning and insights
+- Shows the impact of analysis on decision-making
+- Highlights innovation, creativity, and professional development
+- Contributes to a stronger, more connected analytical community
 
 <ul>
   <li>Demonstrates practical learning and insights</li>
