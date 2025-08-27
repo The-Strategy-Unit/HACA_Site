@@ -8,27 +8,34 @@ theme = "HACA_Theme"
       unsafe = true
 
 [menu]
+
+  [[menu.main]]
+    identifier = "Home page"
+    name = "Home"
+    url = "/"
+    weight = 1
+
   [[menu.main]]
     identifier = "HACA 2025 Registration"
-    name = "HACA 2025 Registration"
+    name = "Registration"
     url = "/HACA_Registration"
     weight = 10
 
   [[menu.main]]
     identifier = "HACA 2025 Abstracts"
-    name = "HACA 2025 Abstracts"
+    name = "Abstracts"
     url = "/HACA_Abstracts"
     weight = 20
 
     [[menu.main]]
       identifier = "HACA 2025 Programme"
-      name = "HACA 2025 Programme"
+      name = "Programme"
       url = "/HACA_Programme"
       weight = 30
 
       [[menu.main]]
-        identifier = "HACA Past Conferences"
-        name = "HACA Past Conferences"
+        identifier = "Past Conferences"
+        name = "Past Conferences"
         url = "/HACA_Past_Conferences"
         weight = 40
       
