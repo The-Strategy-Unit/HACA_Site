@@ -1,30 +1,26 @@
 <footer class="footer-banner" role="contentinfo">
   <div class="footer-content">
-    <div class="footer-main-group">
+      <div class="footer-sponsors" style="margin:1rem 0; display:flex; gap:1rem; justify-content:center; align-items:center;">
+        <a href="https://www.health.org.uk" target="_blank" rel="noopener" aria-label="Visit The Health Foundation website">
+          <img src="/img/HF Logo.jpg" alt="The Health Foundation logo" style="height:40px;" />
+        </a>
+        <a href="https://www.strategyunitwm.nhs.uk" target="_blank" rel="noopener" aria-label="Visit The Strategy Unit website">
+          <img src="/img/SU Brand Black.png" alt="The Strategy Unit logo " style="height:60px;" />
+        </a>
+        <a href="https://www.nhs.uk" target="_blank" rel="noopener" aria-label="Visit The NHS website">
+          <img src="/img/NHS Logo.png" alt="NHS logo" style="height:40px;" />
+        </a>
       </div>
-      <div class="footer-social">
+      <div class="footer-social" style="margin:1rem 0;">
         {{ range .Site.Params.social }}
           <a href="{{ .url }}">
             <i class="{{ .icon_pack }} fa-{{ .icon }} fa-lg fa-fw"></i>
           </a>
         {{ end }}
-      </div>
-      <div class="footer-sponsors" style="margin:1rem 0; display:flex; gap:1rem; justify-content:center; align-items:center;">
-        <a href="https://www.health.org.uk" target="_blank" rel="noopener" aria-label="Sponsor 1">
-          <img src="/img/HF Logo.jpg" alt="Sponsor 1" style="height:40px;" />
-        </a>
-        <a href="https://www.strategyunitwm.nhs.uk" target="_blank" rel="noopener" aria-label="Sponsor 2">
-          <img src="/img/SU Brand Black.png" alt="Sponsor 2" style="height:60px;" />
-        </a>
-        <a href="https://www.nhs.uk" target="_blank" rel="noopener" aria-label="Sponsor 3">
-          <img src="/img/NHS Logo.png" alt="Sponsor 3" style="height:40px;" />
-        </a>
-      </div>
-      <div class="footer-links" style="margin:1rem 0; position:absolute; right:2rem; top:50%; transform:translateY(-50%); text-align:right;">
-        <a href="mailto:strategyunit.tnc@nhs.net" style="margin:0 1rem; color:inherit; text-decoration:underline;">Contact Us</a>
-        <a href="/policy/" style="margin:0 1rem; color:inherit; text-decoration:underline;">Policy</a>
+
+        <a href="mailto:strategyunit.tnc@nhs.net">Contact Us</a>
+        <a href="/policy/">Policy</a>
       </div>
     </div>
-    <p style="margin-top:1rem;">&copy;{{ dateFormat "2006" now }} The Health and Care Analytics conference</p>
   </div>
 </footer>
