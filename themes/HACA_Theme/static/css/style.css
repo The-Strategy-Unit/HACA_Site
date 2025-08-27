@@ -24,8 +24,20 @@ a {
   text-decoration: underline;
   font-weight: 600;
 }
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h5, h6{
   color: #ae2573;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  text-align: center;
+  max-width: none;
+}
+
+h3, h4, h3 {
+  color: #5a0a96;
   width: 100vw;
   position: relative;
   left: 50%;
@@ -74,7 +86,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .logo img {
   height: 120px;
-  display: block;
+  display: flex;
 }
 .navbar-banner {
   width: 100vw;
@@ -186,6 +198,32 @@ body.dark-mode .navbar-banner {
   font-size: 2rem;
   font-weight: bold;
   margin-top: 1rem;
+}
+.alt-hero-banner {
+  width: 100vw;
+  height: 300px;
+  background: #ae2573; /* HACA Pink */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: -50vw;
+  left: 50%;
+  position: relative;
+}
+.alt-hero-content {
+  color: #fff;
+  text-align: center;
+  padding: 2rem 3rem;
+  border-radius: 12px;
+  background: rgba(150, 10, 106, 0.85); /* Optional: slightly darker overlay- check with accessibility */
+}
+.alt-hero-banner h1,
+.alt-hero-banner h2,
+.alt-hero-banner h3,
+.alt-hero-banner h4,
+.alt-hero-banner h5,
+.alt-hero-banner h6 {
+  color: #fff;
 }
 
 /* =========================
@@ -339,5 +377,18 @@ body.dark-mode .programme-table tr:hover {
   .site-nav a {
     padding: 0.5rem;
     padding-left: 0;
+  }
+}
+@media (max-width: 600px) {
+  body {
+    font-size: 1rem;
+    padding: 0.5rem;
+  }
+  .site-nav, .main-menu {
+    flex-direction: column;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
   }
 }
