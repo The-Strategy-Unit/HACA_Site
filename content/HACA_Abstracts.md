@@ -18,7 +18,7 @@ title = ''
 </ul>
 </p>
 
-<h4>Rising to the challenge: Analysis at the heart of health and care systems of the future</h4>
+<p class="custom-text">Rising to the challenge: Analysis at the heart of health and care systems of the future
 
 
 Rooted in our ethos – <em><b>by analysts, for analysts, with leaders</b></em> – HACA 2025 is a space to share learning, inspire your peers, and spotlight how analysis is shaping the future of health and care.
@@ -50,4 +50,4 @@ We welcome submissions across four key themes central to the future challenges a
 
 We also welcome abstracts that fall outside these categories but still reflect the creativity, rigour, and impact that analysts bring to health and care.
 
-<h2>Submission deadline: 07 September 2025</h2>
+<p class="custom-text1">Submission deadline: 07 September 2025
