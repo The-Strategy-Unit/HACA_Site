@@ -59,6 +59,18 @@ h3, h4, h3 {
   margin-bottom: 2rem;
 }
 
+.custom-text {
+  color: #5a0a96;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.custom-text1 {
+  color: #ae2573;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
 /* =========================
    Navigation
    ========================= */

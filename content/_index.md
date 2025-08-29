@@ -11,7 +11,8 @@ title = "HACA 2025 Conference"
 </div>
 
 <p>HACA is the UK’s leading analytics event for health and care, bringing together analysts, leaders, and decision-makers to connect, learn, and celebrate the impact of great analytical work. The 2025 theme is:
-<h3>‘Rising to the challenge: Analysis at the heart of health and care systems of the future’</h3>
+
+<p class="custom-text">Rising to the challenge: Analysis at the heart of health and care systems of the future
 
 The conference is rooted in our ethos - <b><em>by analysts, for analysts, with leaders</em></b> - and showcases how analysis is central to better decisions in health and care.
 
@@ -26,7 +27,7 @@ HACA 2025 is brought to you by the Strategy Unit, with sponsorship from The Heal
 
 <p>This year, we are creating a space to share analytical work that addresses the challenges and opportunities facing health and care – as recently highlighted in Lord Darzi’s <em>‘Independent investigation of the NHS in England’ and ‘Fit for the Future: The 10 Year Health Plan for England’.</em></p>
 
-Our 2025 theme, <h4>Rising to the challenge: Analysis at the heart of health and cares systems of the future</h4> recognises the pivotal role of analytics (and analysts) in shaping future-ready services, informing policy, and driving innovation across the sector.{{< /accordion >}}
+Our 2025 theme, <p class="custom-text">Rising to the challenge: Analysis at the heart of health and care systems of the future</p> recognises the pivotal role of analytics (and analysts) in shaping future-ready services, informing policy, and driving innovation across the sector.{{< /accordion >}}
 
 {{< accordion title="Why Attend?" >}}We have an exciting programme filled with quality speakers from across the UK , with thought-provoking plenary sessions, learning sessions, poster presentations and workshops.
 
