@@ -65,7 +65,9 @@ h3, h4, h3 {
 .site-nav {
   display: flex;
   align-items: center;
+  justify-content: center;
 }
+
 .site-nav a {
   display: block;
   padding: 1rem;
