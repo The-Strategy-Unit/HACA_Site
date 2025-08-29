@@ -19,8 +19,6 @@ HACA 2025 will offer two packed days of inspiration, collaboration, and practica
 
 HACA 2025 is brought to you by the Strategy Unit, with sponsorship from The Health Foundation and supported by organisations from across the UK health and care system.</p>
 
-<img src="/img/Website icon. Announcement.png" alt="Description" style="display:block; margin:2rem auto; max-width:400px;" />
-
 {{< accordionset >}}
 {{< accordion title="Rising to the Challenge" >}}Rooted in our ethos – <b><em>by analysts, for analysts, with leaders</b></em> – HACA 2025 will showcase impactful work, inspire peers, and help strengthen our vibrant national community of analysts. HACA is recognised as the UK’s national health and care analytics conference – and this is your opportunity to be part of its momentum.
 
