@@ -20,7 +20,14 @@
 </head>
 
 <body>
-
-{{ partial "nav.html" . }}
-
-<main class="content" role="main">
+  <header class="site-header">
+    <div class="header-logo">
+      <a href="/">
+        <img src="/img/HACA Swirl NoBG.png" alt="HACA 2025 Logo" style="height:80px;" />
+      </a>
+    </div>
+    <nav class="header-nav">
+      {{ partial "nav.html" . }}
+    </nav>
+  </header>
+  <main class="content" role="main">
