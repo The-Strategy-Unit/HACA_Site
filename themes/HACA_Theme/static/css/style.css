@@ -1,13 +1,8 @@
-/* =========================
-   Imports (always at top)
-   ========================= */
-@import url("/css/theme-vars.css");
+/* Imports (good practice to have these always at top of file!)*/
 @import url("/css/theme-toggle.css");
 @import url("/css/accordion.css");
 
-/* =========================
-   Base Styles
-   ========================= */
+/* Add All Base Styles Here */
 body {
   color: #222;
   background: var(--bg);
@@ -47,39 +42,16 @@ h3, h4, h3 {
   text-align: center;
   max-width: none;
 }
-.split-text h1,
-.split-text h2,
-.split-text h3,
-.split-text h4,
-.split-text h5,
-.split-text h6 {
-  color: #ae2573;
-}
 .content {
   margin-bottom: 2rem;
 }
 
-.custom-text {
-  color: #5a0a96;
-  font-size: 1.2rem;
-  font-weight: bold;
-}
-
-.custom-text1 {
-  color: #ae2573;
-  font-size: 1.4rem;
-  font-weight: bold;
-}
-
-/* =========================
-   Navigation
-   ========================= */
+/* Navigation */
 .site-nav {
   display: flex;
   align-items: center;
   justify-content: center;
 }
-
 .site-nav a {
   display: block;
   padding: 1rem;
@@ -120,9 +92,7 @@ body.dark-mode .navbar-banner {
   color: #fff !important;
 }
 
-/* =========================
-   Footer
-   ========================= */
+/* Footer */
 .footer-banner {
   width: 100vw;
   left: 50%;
@@ -171,9 +141,7 @@ body.dark-mode .navbar-banner {
   vertical-align: middle;
 }
 
-/* =========================
-   Hero Banner
-   ========================= */
+/* Hero Banner for Landing and Other Pages*/
 .hero-banner {
   width: 100vw;
   height: 500px;
@@ -208,11 +176,6 @@ body.dark-mode .navbar-banner {
   margin-bottom: 1.5rem;
   color: #fff;
 }
-#countdown {
-  font-size: 2rem;
-  font-weight: bold;
-  margin-top: 1rem;
-}
 .alt-hero-banner {
   width: 100vw;
   height: 300px;
@@ -240,9 +203,7 @@ body.dark-mode .navbar-banner {
   color: #fff;
 }
 
-/* =========================
-   Conference Programme Table
-   ========================= */
+/* Conference Programme Table */
 .programme-table {
   width: 100%;
   border-collapse: collapse;
@@ -268,111 +229,7 @@ body.dark-mode .navbar-banner {
   background: #eae6f7;
 }
 
-/* Dark mode styles for conference programme table */
-body.dark-mode .programme-table {
-  background: #181a1b;
-  color: #fff;
-}
-body.dark-mode .programme-table th {
-  background: #ae2573;
-  color: #fff;
-}
-body.dark-mode .programme-table td {
-  background: #181a1b;
-  color: #fff;
-}
-body.dark-mode .programme-table tr:nth-child(even) {
-  background: #232326;
-}
-body.dark-mode .programme-table tr:hover {
-  background: #ae2573;
-  color: #fff;
-}
-
-/* =========================
-   Image & Split Sections
-   ========================= */
-.image-background-section {
-  width: 100vw;
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  background-image: url('/img/HACA Background 1.jpg');
-  background-size: cover;
-  background-position: center;
-  color: #fff;
-  padding: 4rem 0;
-  border-radius: 0;
-}
-.split-image-section {
-  display: flex;
-  width: 100vw;
-  min-height: 300px;
-  margin: 0;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  position: relative;
-}
-.split-image {
-  flex: 1;
-  background-size: cover;
-  background-position: center;
-  min-height: 300px;
-}
-.split-text-image {
-  display: flex;
-  width: 100vw;
-  min-height: 300px;
-  margin-left: -50vw;
-  left: 50%;
-  position: relative;
-  align-items: stretch;
-}
-.split-text {
-  flex: 1;
-  padding: 4rem 4rem 2rem 4rem;
-  color: #fff;
-  background-image: url('/img/HACA Background 1.jpg');
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  border-radius: 8px;
-  height: 100%;
-}
-.split-image {
-  flex: 1;
-  background-size: cover;
-  background-position: center;
-  min-height: 300px;
-  align-items: flex-start;
-}
-.image-text-row {
-  display: flex;
-  align-items: center;
-  gap: 2rem;
-  width: 100vw;
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-}
-.image-left {
-  max-width: 450px;
-  height: auto;
-  border-radius: 8px;
-}
-.text-right {
-  flex: 1;
-}
-
-/* =========================
-   Lists
-   ========================= */
+/* Lists */
 .post-snippet {
   margin-bottom: 1rem;
 }
@@ -380,9 +237,23 @@ body.dark-mode .programme-table tr:hover {
   margin-bottom: 0.25rem;
 }
 
-/* =========================
-   Media Queries
-   ========================= */
+/* Iframe Container for Responsive Videos */
+.iframe-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem 0;
+}
+
+.iframe-container iframe {
+  width: 90vw;
+  max-width: 900px;
+  height: 50vw;
+  max-height: 500px;
+  border: none;
+}
+
+/* Media Queries */
 @media screen and (max-width: 48rem) {
   .site-nav,
   .main-menu {
