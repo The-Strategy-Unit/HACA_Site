@@ -5,7 +5,7 @@ title= ''
 <div class="alt-hero-banner">
   <div class="alt-hero-content">
     <h1>Conference Programme</h1>
-    <p>Coming Soon</p>
+    <p>We're currently working hard to pull together an exciting programme of talks, workshops, and keynotes. Stay tuned for updates!</p>
   </div>
 </div>
 
