@@ -1,4 +1,4 @@
-baseURL = "https://mynewhugosite.com"
+baseURL = "https://haca-conference.nhs.uk/"
 title = "Health and Care Analytics conference"
 theme = "HACA_Theme"
 
