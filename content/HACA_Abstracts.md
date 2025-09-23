@@ -50,4 +50,4 @@ We welcome submissions across four key themes central to the future challenges a
 
 We also welcome abstracts that fall outside these categories but still reflect the creativity, rigour, and impact that analysts bring to health and care.
 
-<p class="custom-text1">Submission deadline: 07 September 2025
+<p class="custom-text1">Submission deadline: 21 <sup>st</sup> September 2025
