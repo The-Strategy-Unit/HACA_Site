@@ -6,9 +6,13 @@ title = "HACA 2025 Conference"
 <div class="hero-banner">
   <div class="hero-content">
     <h1>Health and Care Analytics Conference 2025</h1>
+    <span class="conference-dates-btn">
+  3<sup>rd</sup> &amp; 4<sup>th</sup> December 2025
+</span>
     <p>Following the success of last year’s national conference, we’re excited to announce the return of the Health and Care Analytics (HACA) conference for 2025 for a third year and we’re going fully online!</p>
   </div>
 </div>
+
 
 <p>HACA is the UK’s leading analytics event for health and care, bringing together analysts, leaders, and decision-makers to connect, learn, and celebrate the impact of great analytical work. The 2025 theme is:
 
