@@ -203,6 +203,21 @@ body.dark-mode .navbar-banner {
   color: #fff;
 }
 
+.conference-dates-btn {
+  background-color: #330072;
+  color: #fff;
+  border: none;
+  border-radius: 12px;
+  padding: 0.75em 2em;
+  font-size: 1.6em;
+  margin: 1em 0;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+  transition: background 0.2s;
+  cursor: default; /* Not clickable */
+  pointer-events: none; /* Prevents interaction */
+}
+
+
 /* Conference Programme Table */
 .programme-table {
   width: 100%;
