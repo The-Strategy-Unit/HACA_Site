@@ -1,46 +1,44 @@
-/* Imports (good practice to have these always at top of file!)*/
-@import url("/css/theme-toggle.css");
+/* Imports (good practice to have these at top of file- Need to always add them here)*/
 @import url("/css/accordion.css");
 
 /* Add All Base Styles Here */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  width: 100%;
+  overflow-x: hidden;
+  position: relative;
+}
+
 body {
   color: #222;
   background: var(--bg);
   font-size: 125%;
   line-height: 1.6;
   letter-spacing: 0.02em;
-  max-width: 45rem;
-  padding: 1rem;
-  margin: 0 auto;
+  margin: 0;
   font-family: var(--font-main, Arial, sans-serif);
 }
+
 a {
   color: #ae2573;
   text-decoration: underline;
   font-weight: 600;
 }
-h1, h2, h5, h6{
-  color: #ae2573;
-  width: 100vw;
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  text-align: center;
-  max-width: none;
+
+p {
+    margin-bottom: 1.5em;
 }
 
-h3, h4, h3 {
-  color: #5a0a96;
-  width: 100vw;
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
+h1, h2, h3, h4, h5, h6 {
   text-align: center;
-  max-width: none;
+  padding: 0;
+  margin: clamp(0.5rem, 2vw, 2rem) auto;
+  max-width: min(70rem, 95%);
 }
 
 .custom-text {
@@ -55,8 +53,11 @@ h3, h4, h3 {
   font-weight: bold;
 }
 
-.content {
-  margin-bottom: 2rem;
+.content, .container {
+  width: 90vw;
+  max-width: min(70rem, 95%);
+  margin: 0 auto;
+  padding: clamp(0.5rem, 2vw, 2rem);
 }
 
 /* Navigation */
@@ -84,19 +85,19 @@ h3, h4, h3 {
   font-family: var(--font-secondary, Helvetica Neue, Helvetica, Arial, sans-serif);
 }
 .logo img {
-  height: 120px;
+  height: 80px; /* Reduced from 120px */
   display: flex;
 }
 .navbar-banner {
   width: 100vw;
+  position: relative;
   left: 50%;
   right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
-  position: relative;
   background: #fff;
   color: #ae2573;
-  padding: 1rem 0;
+  padding: 0.5rem 0;
   text-align: center;
   box-shadow: 0 2px 4px rgba(0,0,0,0.05);
 }
@@ -107,12 +108,11 @@ body.dark-mode .navbar-banner {
 
 /* Footer */
 .footer-banner {
-  width: 100vw;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
+  width: 100%;
   position: relative;
+  left: 0;
+  margin: 0;
+  overflow: hidden;
   background: var(--navbar-banner-bg, #ae2573);
   color: #fff;
   padding: 1.5rem 0 1rem 0;
@@ -157,7 +157,12 @@ body.dark-mode .navbar-banner {
 /* Hero Banner for Landing and Other Pages*/
 .hero-banner {
   width: 100vw;
-  height: 500px;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  height: 400px; /* Reduced from 500px */
   background-image: linear-gradient(
     to bottom,
     rgba(255,255,255,0.10),
@@ -165,14 +170,11 @@ body.dark-mode .navbar-banner {
   ),
   url('/img/HACA Crowd.jpg');
   background-size: cover;
-  background-repeat: no-repeat;
   background-position: center;
-  position: relative;
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-left: -50vw;
-  left: 50%;
+  margin-top: 1rem; /* Add space between navbar and hero */
 }
 .hero-content {
   position: relative;
@@ -183,6 +185,7 @@ body.dark-mode .navbar-banner {
   padding: 2rem 3rem;
   border-radius: 16px;
   box-shadow: 0 4px 24px rgba(0,0,0,0.10);
+  max-width: 90%;
 }
 .hero-content h1 {
   font-size: 3rem;
@@ -190,22 +193,23 @@ body.dark-mode .navbar-banner {
   color: #fff;
 }
 .alt-hero-banner {
-  width: 100vw;
+  width: 100%;
+  position: relative;
+  left: 0;
+  margin: 0;
+  overflow: hidden;
   height: 300px;
-  background: #ae2573; /* HACA Pink */
+  background: #ae2573;
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-left: -50vw;
-  left: 50%;
-  position: relative;
 }
 .alt-hero-content {
   color: #fff;
   text-align: center;
   padding: 2rem 3rem;
   border-radius: 12px;
-  background: rgba(150, 10, 106, 0.85); /* Optional: slightly darker overlay- check with accessibility */
+  background: rgba(150, 10, 106, 0.85);
 }
 .alt-hero-banner h1,
 .alt-hero-banner h2,
@@ -221,13 +225,15 @@ body.dark-mode .navbar-banner {
   color: #fff;
   border: none;
   border-radius: 12px;
-  padding: 0.75em 2em;
-  font-size: 1.6em;
-  margin: 1em 0;
+  padding: 0.5em 1em;
+  font-size: 1.2em;
+  margin: 0.5em 0;
   box-shadow: 0 2px 6px rgba(0,0,0,0.08);
   transition: background 0.2s;
-  cursor: default; /* Not clickable */
-  pointer-events: none; /* Prevents interaction */
+  cursor: default;
+  pointer-events: none;
+  display: inline-block;
+  white-space: nowrap;
 }
 
 
@@ -270,7 +276,7 @@ body.dark-mode .navbar-banner {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 2rem 0;
+  margin: clamp(1rem, 3vw, 3rem) 0;
 }
 
 .iframe-container iframe {
@@ -281,27 +287,209 @@ body.dark-mode .navbar-banner {
   border: none;
 }
 
-/* Media Queries */
-@media screen and (max-width: 48rem) {
-  .site-nav,
-  .main-menu {
-    flex-direction: column;
+/* Page Wrapper and Main Content for Layout */
+.page-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.main-content {
+  flex: 1;
+  width: 100%;
+}
+
+.container {
+  max-width: 45rem;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+/* Common banner styles - align all with navbar */
+.navbar-banner, .footer-banner, .hero-banner, .alt-hero-banner {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  overflow: visible;
+}
+
+.navbar-banner-inner, .footer-content, .hero-content, .alt-hero-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+  width: 100%;
+}
+
+/* Update specific banner styles */
+.hero-banner {
+  height: 400px; /* Reduced from 500px */
+  background-image: linear-gradient(
+    to bottom,
+    rgba(255,255,255,0.10),
+    rgba(255,255,255,0.10)
+  ),
+  url('/img/HACA Crowd.jpg');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1rem; /* Add space between navbar and hero */
+}
+
+/* Add spacing between paragraphs */
+p {
+  margin-bottom: 1.5rem;
+}
+
+/* Adjust spacing for paragraphs in specific containers */
+.hero-content p {
+  margin-bottom: 1rem;
+}
+
+.accordion-content p {
+  margin-bottom: 1rem;
+}
+
+/* Update mobile styles */
+@media (max-width: 600px) {
+  .navbar-banner {
+    padding: 0.25rem 0;
   }
-  .site-nav a {
+
+  .logo img {
+    height: 50px;
+  }
+
+  .hero-banner {
+    height: 250px;
+    margin-top: 0;
+  }
+
+  .hero-content {
+    padding: 0.75rem;
+    width: 95%;
+    max-width: 100%;
+  }
+
+  .hero-content h1 {
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+    line-height: 1.3;
+  }
+
+  .hero-content p {
+    font-size: 0.9rem;
+    line-height: 1.4;
+  }
+
+  .conference-dates-btn {
+    font-size: 0.85rem;
+    padding: 0.4em 0.8em;
+    margin: 0.3em 0;
+  }
+
+  .content, .container {
     padding: 0.5rem;
-    padding-left: 0;
+  }
+
+  .site-nav a {
+    font-size: 0.9rem;
+    padding: 0.25rem;
+  }
+
+  .main-menu {
+    font-size: 0.9rem;
+  }
+
+  .footer-banner {
+    padding: 1rem 0 0.5rem 0;
+  }
+
+  .footer-content {
+    font-size: 0.9rem;
+    gap: 0.25rem;
+  }
+
+  .footer-logo-corner img {
+    height: 50px;
   }
 }
-@media (max-width: 600px) {
-  body {
-    font-size: 1rem;
+
+@media (max-width: 400px) {
+  .hero-content {
     padding: 0.5rem;
   }
-  .site-nav, .main-menu {
-    flex-direction: column;
+
+  .hero-content h1 {
+    font-size: 1.1rem;
   }
-  img {
-    max-width: 100%;
-    height: auto;
+
+  .hero-content p {
+    font-size: 0.8rem;
+  }
+
+  .conference-dates-btn {
+    font-size: 0.75rem;
+    padding: 0.3em 0.6em;
+    margin: 0.2em 0;
+  }
+
+  .site-nav a {
+    font-size: 0.8rem;
+  }
+
+  .main-menu {
+    font-size: 0.8rem;
+  }
+
+  .footer-content {
+    font-size: 0.8rem;
+  }
+
+  .footer-logo-corner img {
+    height: 40px;
+  }
+}
+
+/* Large screen content area adjustments */
+@media (min-width: 1200px) {
+  .content, .container {
+    max-width: 60rem;
+    padding: 0.75rem;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    margin: 0.75rem auto;
+    max-width: 60rem;
+  }
+
+  .programme-table {
+    margin: 1.5rem 0;
+  }
+
+  .post-snippet {
+    margin-bottom: 0.75rem;
+  }
+
+  .iframe-container {
+    margin: 1.5rem 0;
+  }
+}
+
+@media (min-width: 1600px) {
+  .content, .container {
+    max-width: 70rem;
+    padding: 0.5rem;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    margin: 0.5rem auto;
+    max-width: 70rem;
   }
 }
