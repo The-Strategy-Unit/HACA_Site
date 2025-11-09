@@ -7,11 +7,8 @@
 
 	<title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
 
-		<link rel="stylesheet" href="/css/theme-vars.css" type="text/css" media="all" />
-		<link rel="stylesheet" href="/css/theme-toggle.css" type="text/css" media="all" />
 		<link rel="stylesheet" href="/css/style.css" type="text/css" media="all" />
 		<script src="/js/accordion.js"></script>
-		<script src="/js/theme-toggle.js"></script>
 
 	{{ with .OutputFormats.Get "rss" -}}
 		{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
@@ -20,10 +17,10 @@
 </head>
 
 <body>
-  <header class="site-header">
+  <header class="site-header" style="text-align: center;">
     <div class="header-logo">
       <a href="/">
-        <img src="/img/HACA Swirl NoBG.png" alt="HACA 2025 Logo" style="height:80px;" />
+        <img src="/img/HACA_2025_Colour.png" alt="HACA 2025 Logo" style="height: 120px;" />
       </a>
     </div>
     <nav class="header-nav">
