@@ -5,14 +5,17 @@ title= ''
 <div class="alt-hero-banner">
   <div class="alt-hero-content">
     <h1>Join Us at HACA 2025</h1>
-    <p>We’re excited to invite you to register for the Health and Care Analytics Conference 2025 (HACA 2025) – the UK’s national conference for health and care analysts. This year’s conference will be held fully online on Wednesday 3rd and Thursday 4th December 2025.</p>
+    <h2>3–4 December 2025 | Fully Online</h2>
+   <div class="conference-banner">Be part of the UK’s national conference for health and care analysts and leaders.</div>
   </div>
 </div>
 
 <h2><a href="https://www.smartsurvey.co.uk/s/CKC381/" target="_blank"> Link to register for HACA 2025</a></h2>
 
 
-<p>This year’s theme is</p>
+<p>HACA 2025 brings together analysts, leaders, and decision-makers from across the system for two days of inspiration, collaboration, and celebration.
+
+Theme for 2025: </p>
 
 <p class="custom-text">Rising to the challenge: Analysis at the heart of health and care systems of the future</p>
 
@@ -29,6 +32,6 @@ title= ''
 
 <p><a href="https://www.smartsurvey.co.uk/s/CKC381/" target="_blank"> Link to register for HACA 2025</a></p>
 
-<p>Once registered, you’ll receive confirmation and regular updates as the agenda is finalised.</p>
+<p>Once registered, you’ll receive regular updates and access to the online platform as the agenda is finalised.</p>
 
-<p class="custom-text1">We look forward to welcoming you in December
+<p class="custom-text1">We look forward to welcoming you in December!
