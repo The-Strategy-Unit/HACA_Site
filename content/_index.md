@@ -6,7 +6,7 @@ title = "HACA 2025 Conference"
 <div class="hero-banner">
   <div class="hero-content">
     <h1>Health and Care Analytics Conference 2025</h1>
-    <h2>3–4 December 2025 | Fully Online</h2>
+    <h2>3 – 4 December 2025 | Fully Online</h2>
     <div class="conference-banner">Rising to the challenge: Analysis at the heart of health and care systems of the future.</div>
     <p>The UK's national conference for health and care analysts returns for its third year — bigger, bolder, and fully online. </p>
   </div>
