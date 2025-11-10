@@ -6,7 +6,7 @@ title = ''
   <div class="alt-hero-content">
     <h1>Revisit HACA 2023 and 2024</h1>
     <h2>Missed a session? Want to relive the highlights?</h2>
-    <p>You can watch talks, e-labs, and panel discussions from the 2023 and 2024 conferences on our YouTube channel - free and open to all.</p>
+    <p>You can watch talks, e-labs, and panel discussions from the 2023 and 2024 conferences on our YouTube channel — free and open to all.</p>
   </div>
 </div>
 
