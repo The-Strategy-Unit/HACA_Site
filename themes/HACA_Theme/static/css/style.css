@@ -1,5 +1,4 @@
 /* Imports (good practice to have these always at top of file!)*/
-@import url("/css/theme-toggle.css");
 @import url("/css/accordion.css");
 
 /* Add All Base Styles Here */
@@ -45,7 +44,7 @@ h3, h4, h3 {
 
 .custom-text {
   color: #5a0a96;
-  font-size: 1.2rem;
+  font-size: 1.6rem;
   font-weight: bold;
 }
 
@@ -100,10 +99,6 @@ h3, h4, h3 {
   text-align: center;
   box-shadow: 0 2px 4px rgba(0,0,0,0.05);
 }
-body.dark-mode .navbar-banner {
-  background: #e825a6 !important;
-  color: #fff !important;
-}
 
 /* Footer */
 .footer-banner {
@@ -117,7 +112,6 @@ body.dark-mode .navbar-banner {
   color: #fff;
   padding: 1.5rem 0 1rem 0;
   text-align: flex-start;
-  box-shadow: 0 -2px 4px rgba(0,0,0,0.05);
   bottom: 0;
 }
 .footer-content {
@@ -179,15 +173,20 @@ body.dark-mode .navbar-banner {
   z-index: 2;
   text-align: center;
   color: #fff;
-  background: rgba(174, 37, 115, 0.85);
-  padding: 2rem 3rem;
-  border-radius: 16px;
-  box-shadow: 0 4px 24px rgba(0,0,0,0.10);
+  background: rgba(150, 10, 106, 0.85);
+  padding: 1rem 2rem;
+  border-radius: 8px;
 }
 .hero-content h1 {
   font-size: 3rem;
   margin-bottom: 1.5rem;
   color: #fff;
+}
+.hero-content h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #ffffff;
+  font-style: italic;
 }
 .alt-hero-banner {
   width: 100vw;
@@ -205,31 +204,30 @@ body.dark-mode .navbar-banner {
   text-align: center;
   padding: 2rem 3rem;
   border-radius: 12px;
-  background: rgba(150, 10, 106, 0.85); /* Optional: slightly darker overlay- check with accessibility */
 }
-.alt-hero-banner h1,
-.alt-hero-banner h2,
-.alt-hero-banner h3,
-.alt-hero-banner h4,
-.alt-hero-banner h5,
-.alt-hero-banner h6 {
+
+.alt-hero-content h1 {
+  font-size: 3rem;
+  margin-bottom: 1.5rem;
   color: #fff;
 }
 
-.conference-dates-btn {
-  background-color: #330072;
-  color: #fff;
-  border: none;
-  border-radius: 12px;
-  padding: 0.75em 2em;
-  font-size: 1.6em;
-  margin: 1em 0;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
-  transition: background 0.2s;
-  cursor: default; /* Not clickable */
-  pointer-events: none; /* Prevents interaction */
+.alt-hero-content h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #ffffff;
+  font-style: italic;
 }
 
+.conference-banner {
+  background-color: #5a0a96;
+  color: #ffffff;
+  padding: 15px 20px;
+  border-radius: 8px;
+  text-align: center;
+  font-weight: bold;
+  margin: 10px 0;
+}
 
 /* Conference Programme Table */
 .programme-table {
