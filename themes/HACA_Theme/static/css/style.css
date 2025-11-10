@@ -289,7 +289,42 @@ h3, h4, h3 {
     padding: 0.5rem;
     padding-left: 0;
   }
+  
+  .hero-content {
+    padding: 1rem;
+  }
+  
+  .hero-content h1 {
+    font-size: 1.8rem;
+  }
+  
+  .hero-content h2 {
+    font-size: 1.2rem;
+  }
+  
+  .conference-banner {
+    font-size: 0.9rem;
+    padding: 10px 15px;
+  }
+  
+  .alt-hero-banner {
+    height: auto;
+    min-height: 250px;
+  }
+  
+  .alt-hero-content {
+    padding: 1rem;
+  }
+  
+  .alt-hero-content h1 {
+    font-size: 1.8rem;
+  }
+  
+  .alt-hero-content h2 {
+    font-size: 1.2rem;
+  }
 }
+
 @media (max-width: 600px) {
   body {
     font-size: 1rem;
@@ -301,5 +336,62 @@ h3, h4, h3 {
   img {
     max-width: 100%;
     height: auto;
+  }
+  
+  .hero-banner {
+    height: auto;
+    min-height: 300px;
+  }
+  
+  .hero-content {
+    padding: 1rem;
+  }
+  
+  .hero-content h1 {
+    font-size: 1.5rem;
+    margin-bottom: 0.75rem;
+  }
+  
+  .hero-content h2 {
+    font-size: 1rem;
+  }
+  
+  .hero-content p {
+    font-size: 0.9rem;
+  }
+  
+  .main-menu a {
+    font-size: 0.9rem;
+    padding: 0.5rem;
+  }
+  
+  .alt-hero-banner {
+    height: auto;
+    min-height: 200px;
+  }
+  
+  .alt-hero-content {
+    padding: 1rem;
+  }
+  
+  .alt-hero-content h1 {
+    font-size: 1.5rem;
+    margin-bottom: 0.75rem;
+  }
+  
+  .alt-hero-content h2 {
+    font-size: 1rem;
+  }
+  
+  .alt-hero-content p {
+    font-size: 0.9rem;
+  }
+  
+  .custom-text {
+    font-size: 1.2rem;
+  }
+  
+  .custom-text1 {
+    font-size: 1.1rem;
   }
 }
