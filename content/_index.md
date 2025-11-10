@@ -21,7 +21,7 @@ The conference is rooted in our ethos - <b><em>by analysts, for analysts, with l
 
 HACA 2025 will offer two packed days of inspiration, collaboration, and practical insights. You’ll hear from outstanding speakers, see real-world work in action, and take part in sessions designed to strengthen and empower the analytical community.
 
-HACA 2025 is brought to you by the [Strategy Unit](https://www.strategyunitwm.nhs.uk/), with sponsorship from [The Health Foundation](https://www.health.org.uk/) and supported by organisations from across the UK health and care system.</p>
+HACA 2025 is brought to you by [The Strategy Unit](https://www.strategyunitwm.nhs.uk/), with sponsorship from [The Health Foundation](https://www.health.org.uk/) and supported by organisations from across the UK health and care system.</p>
 
 <p class="custom-text">Got a question?</p>
 <p>Contact the HACA Conference Team at <b>strategyunit.tnc@nhs.net</b></p>
