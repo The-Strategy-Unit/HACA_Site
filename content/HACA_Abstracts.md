@@ -5,42 +5,19 @@ title = ''
 
 <div class="alt-hero-banner">
   <div class="alt-hero-content">
-    <h1>Submit Your Abstract</h1>
-    <p>We’re inviting abstract submissions for the Health and Care Analytics conference 2025 (HACA 2025) – the UK’s national conference for health and care analysts. This year’s conference will be held fully online on Wednesday 3rd and Thursday 4th December 2025.</p>
+    <h1>Abstract Submissions: Now Closed</h1>
+    <p>Thank you to everyone who submitted their work for HACA 2025. We’ve been inspired by the range, quality, and creativity of the abstracts received — a real showcase of the analytical talent across the UK’s health and care system. </p>
   </div>
 </div>
 
-<p>
-<ul>
-  <li><a href="https://www.smartsurvey.co.uk/s/EYNV8E/">Link to submit your abstract</a></li>
-  <li><a href="https://live-haca.pantheonsite.io/wp-content/uploads/2025/07/HACA-2025-Abstract-Submission-Guidance.pdf">Link to download full abstract submission guidance</a></li>
-  <li>If you have any questions or would like support with your submission, <a href="mailto:strategyunit.tnc@nhs.net">email us</a></li>
-</ul>
-</p>
+<p>The Health and Care Analytics Conference (HACA) is rooted in our ethos — by analysts, for analysts, with leaders — and provides a space to share learning, inspire peers, and spotlight how analysis is shaping the future of health and care.</p>
 
-<p class="custom-text">Rising to the challenge: Analysis at the heart of health and care systems of the future
+<p>Our 2025 theme:
+<p class="custom-text">Rising to the challenge: Analysis at the heart of health and care systems of the future,
 
+invites work that shows how analytics is tackling the sector's most pressing challenges and opportunities. 
 
-Rooted in our ethos – <em><b>by analysts, for analysts, with leaders</b></em> – HACA 2025 is a space to share learning, inspire your peers, and spotlight how analysis is shaping the future of health and care.
-
-We welcome submissions from public sector analysts and analytical teams across health and care. Whether you’re an experienced presenter or submitting for the first time, we encourage you to showcase your work, highlight its impact. Join a national community committed to demonstrating how analysis drives better outcomes and a stronger, fairer health and care system.
-
-<h3>We’re particularly interested in work that:</h3>
-
-- Demonstrates practical learning and insights
-- Shows the impact of analysis on decision-making
-- Highlights innovation, creativity, and professional development
-- Contributes to a stronger, more connected analytical community
-
-<ul>
-  <li>Demonstrates practical learning and insights</li>
-  <li>Shows the impact of analysis on decision-making</li>
-  <li>Highlights innovation, creativity, and professional development</li>
-  <li>Contributes to a stronger, more connected analytical community</li>
-</ul>
-
-We welcome submissions across four key themes central to the future challenges and opportunities in health and care:
-
+We welcomed submissions from public and third sector colleagues across four focus areas: 
 <ul>
   <li>Shift from hospital to community</li>
   <li>Improving system flow and reducing waste</li>
@@ -48,6 +25,16 @@ We welcome submissions across four key themes central to the future challenges a
   <li>Advancing analysis and professional development</li>
 </ul>
 
+<p>You can still explore the full abstract guidance document here:
+<a href="https://live-haca.pantheonsite.io/wp-content/uploads/2025/07/HACA-2025-Abstract-Submission-Guidance.pdf">Link to download full abstract submission guidance</a>
+
 We also welcome abstracts that fall outside these categories but still reflect the creativity, rigour, and impact that analysts bring to health and care.
 
-<p class="custom-text1">Submission deadline: 21 <sup>st</sup> September 2025
+<h2>Looking Ahead</h2>
+<p>Even though submissions are now closed, you can still:</p>
+<ul>
+<li>Learn from the inspiring talks and sessions in December 2025</li>
+<li>View selected abstracts and posters through the online conference platform once registered [Going live soon!]</li>
+
+
+<p><a href="https://www.smartsurvey.co.uk/s/CKC381/" target="_blank"> Link to register for HACA 2025</a></p>
