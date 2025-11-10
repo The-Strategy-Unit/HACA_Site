@@ -6,10 +6,9 @@ title = "HACA 2025 Conference"
 <div class="hero-banner">
   <div class="hero-content">
     <h1>Health and Care Analytics Conference 2025</h1>
-    <span class="conference-dates-btn">
-  3<sup>rd</sup> &amp; 4<sup>th</sup> December 2025
-</span>
-    <p>Following the success of last year’s national conference, we’re excited to announce the return of the Health and Care Analytics (HACA) conference for 2025 for a third year and we’re going fully online!</p>
+    <h2>3–4 December 2025 | Fully Online</h2>
+    <div class="conference-banner">Rising to the challenge: Analysis at the heart of health and care systems of the future.</div>
+    <p>The UK's national conference for health and care analysts returns for its third year — bigger, bolder, and fully online. </p>
   </div>
 </div>
 
@@ -22,7 +21,12 @@ The conference is rooted in our ethos - <b><em>by analysts, for analysts, with l
 
 HACA 2025 will offer two packed days of inspiration, collaboration, and practical insights. You’ll hear from outstanding speakers, see real-world work in action, and take part in sessions designed to strengthen and empower the analytical community.
 
-HACA 2025 is brought to you by the Strategy Unit, with sponsorship from The Health Foundation and supported by organisations from across the UK health and care system.</p>
+HACA 2025 is brought to you by the [Strategy Unit](https://www.strategyunitwm.nhs.uk/), with sponsorship from [The Health Foundation](https://www.health.org.uk/) and supported by organisations from across the UK health and care system.</p>
+
+<p class="custom-text">Got a question?</p>
+<p>Contact the HACA Conference Team at <b>strategyunit.tnc@nhs.net</b></p>
+
+<h3><a href="https://www.smartsurvey.co.uk/s/CKC381/" target="_blank"> Link to register for HACA 2025</a></h3>
 
 {{< accordionset >}}
 {{< accordion title="Rising to the Challenge" >}}Rooted in our ethos – <b><em>by analysts, for analysts, with leaders</b></em> – HACA 2025 will showcase impactful work, inspire peers, and help strengthen our vibrant national community of analysts. HACA is recognised as the UK’s national health and care analytics conference – and this is your opportunity to be part of its momentum.
