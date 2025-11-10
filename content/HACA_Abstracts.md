@@ -15,7 +15,7 @@ title = ''
 <p>Our 2025 theme:
 <p class="custom-text">Rising to the challenge: Analysis at the heart of health and care systems of the future,
 
-invites work that shows how analytics is tackling the sector’s most pressing challenges and opportunities. 
+invites work that shows how analytics is tackling the sector's most pressing challenges and opportunities. 
 
 We welcomed submissions from public and third sector colleagues across four focus areas: 
 <ul>
