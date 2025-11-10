@@ -5,7 +5,7 @@ title = ''
 
 <div class="alt-hero-banner">
   <div class="alt-hero-content">
-    <h1>Abstract Submissions- Now Closed</h1>
+    <h1>Abstract Submissions: Now Closed</h1>
     <p>Thank you to everyone who submitted their work for HACA 2025. We’ve been inspired by the range, quality, and creativity of the abstracts received — a real showcase of the analytical talent across the UK’s health and care system. </p>
   </div>
 </div>
