@@ -26,7 +26,7 @@ HACA 2025 is brought to you by [The Strategy Unit](https://www.strategyunitwm.nh
 <p class="custom-text">Got a question?</p>
 <p>Contact the HACA Conference Team at <b>strategyunit.tnc@nhs.net</b></p>
 
-<h3><a href="https://www.smartsurvey.co.uk/s/CKC381/" target="_blank"> Link to register for HACA 2025</a></h3>
+<h3><a href="https://events.hubilo.com/health-and-care-analytics-conference/register" target="_blank"> Link to register for HACA 2025</a></h3>
 
 {{< accordionset >}}
 {{< accordion title="Rising to the Challenge" >}}Rooted in our ethos – <b><em>by analysts, for analysts, with leaders</b></em> – HACA 2025 will showcase impactful work, inspire peers, and help strengthen our vibrant national community of analysts. HACA is recognised as the UK’s national health and care analytics conference – and this is your opportunity to be part of its momentum.

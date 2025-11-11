@@ -37,4 +37,4 @@ We also welcome abstracts that fall outside these categories but still reflect t
 <li>View selected abstracts and posters through the online conference platform once registered [Going live soon!]</li>
 
 
-<p><a href="https://www.smartsurvey.co.uk/s/CKC381/" target="_blank"> Link to register for HACA 2025</a></p>
+<p><a href="https://events.hubilo.com/health-and-care-analytics-conference/register" target="_blank"> Link to register for HACA 2025</a></p>
