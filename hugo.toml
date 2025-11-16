@@ -26,6 +26,12 @@ theme = "HACA_Theme"
     name = "Abstracts"
     url = "/HACA_Abstracts"
     weight = 20
+  
+  [[menu.main]]
+    identifier = "HACA 2025 Keynote Speakers"
+    name = "Keynote Speakers"
+    url = "/HACA_Keynote_Speakers"
+    weight = 25
 
     [[menu.main]]
       identifier = "HACA 2025 Programme"
