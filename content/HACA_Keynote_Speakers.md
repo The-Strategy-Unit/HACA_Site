@@ -26,7 +26,7 @@ title= ""
     <p>Before joining the Trust, Sally was an investigative journalist at the Financial Times, covering public spending, tax, and financial governance, and previously Chief Reporter at Health Service Journal. She brings a unique blend of analytical insight and storytelling to illuminate how funding systems shape health and care delivery. Sally has a PhD in history and a masters in politics.</p><a href="https://www.nuffieldtrust.org.uk/person/sally-gainsbury" target="_blank"> Link to organisational profile</a></p>
     <div class="keynote-session-info">
       <h4>Session Information</h4>
-      <p><strong>Title:</strong> TBC</p>
+      <p><strong>Title:</strong> Three Big Accepted Truths in Current Health Policy that Might Need a bit More Exploration.</p>
       <p><strong>Date & Time:</strong> Wednesday 3 December, 09:45 AM</p>
     </div>
   </div>
@@ -44,7 +44,7 @@ title= ""
     <p>Penny has extensive global experience in healthcare system reform, having led McKinsey’s healthcare practice across Europe. She recently authored two major government-commissioned reviews- on the Care Quality Commission and national patient safety oversight - providing clear recommendations to reduce bureaucracy and enhance learning. Penny is a Fellow of the Royal College of Physicians and a Fulbright Scholar, with an MBA from Stanford University.</p><a href="https://www.england.nhs.uk/about/nhs-england-board/our-leadership-team/" target="_blank"> Link to organisational profile</a></p>
     <div class="keynote-session-info">
       <h4>Session Information</h4>
-      <p><strong>Title:</strong> TBC</p>
+      <p><strong>Title:</strong> How Data and Analytics will Deliver the 10 Year Plan.</p>
       <p><strong>Date & Time:</strong> Wednesday 3 December, 10:15 AM</p>
     </div>
   </div>
@@ -98,7 +98,7 @@ title= ""
     <p>Steven’s work combines logic, creativity, and practicality in applying analytical methods to strategic challenges. His recent research has explored inequalities in access to planned care, long-term trends in GP practice activity, and variations in productivity. Steven is widely recognised for his ability to bridge analytical rigour and policy relevance to support better decision-making in health and care.</p><a href="https://www.strategyunitwm.nhs.uk/author/steven-wyatt" target="_blank"> Link to organisational profile</a></p>
     <div class="keynote-session-info">
       <h4>Session Information</h4>
-      <p><strong>Title:</strong> TBC</p>
+      <p><strong>Title:</strong> Strategic Commissioning & the ICB Blueprint: A Watershed Moment for Analysis in the NHS?</p>
       <p><strong>Date & Time:</strong> Thursday 4 December, 09:40 AM</p>
     </div>
   </div>
@@ -116,7 +116,7 @@ title= ""
     <p>She is passionate about enabling system leadership and population health improvement, having established the National Primary Care Transformation Peer Ambassador Academy. Internationally, Minal advises governments on strengthening health systems and serves as the UK Representative for Innovation for the Department for Business and Trade. She was awarded an MBE in 2022 for services to general practice.</p><a href="https://www.linkedin.com/in/minal-bakhai/" target="_blank"> Link to personal profile</a></p>
     <div class="keynote-session-info">
       <h4>Session Information</h4>
-      <p><strong>Title:</strong> TBC</p>
+      <p><strong>Title:</strong> From Vision to Action: Turning the Dial on Neighbourhood Health.</p>
       <p><strong>Date & Time:</strong> Thursday 4 December, 10:10 AM</p>
     </div>
   </div>
@@ -153,7 +153,7 @@ title= ""
     <p>Ally is also co-director of ADR Scotland and a member of the ADR UK Leadership Committee, which aims to use data that is collected for better research and improve people’s lives through supporting Government to make the right decisions.</p><a href="https://www.adruk.org/about-us/our-people/alastair-mcalpine/" target="_blank"> Link to organisational profile</a></p>
     <div class="keynote-session-info">
       <h4>Session Information</h4>
-      <p><strong>Title:</strong> TBC</p>
+      <p><strong>Title:</strong> The People Behind the Data - How Stories, Not Dashboards, Change Policy.</p>
       <p><strong>Date & Time:</strong> Thursday 4 December, 01:50 PM</p>
     </div>
   </div>
