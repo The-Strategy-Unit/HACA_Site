@@ -167,7 +167,7 @@ title= ""
         <p>Director at Health Economics Unit</p>
       </div>
     </div>
-    <p>MAndi Orlowski is a health economist and the Director of the Health Economics Unit, an NHS organisation supporting health and care locally, regionally and nationally, providing expertise in economics, population health, analytics and evaluations.
+    <p>Andi Orlowski is a health economist and the Director of the Health Economics Unit, an NHS organisation supporting health and care locally, regionally and nationally, providing expertise in economics, population health, analytics and evaluations.
     <p>With a passion for population health analytics, Andi is excited about addressing health inequalities and the concept of impactibility modelling. He is researching this for his PhD at Imperial College London.</p><a href="https://healtheconomicsunit.nhs.uk/teams/andi-orlowski/" target="_blank"> Link to organisational profile</a></p>
     <div class="keynote-session-info">
       <h4>Session Information</h4>
