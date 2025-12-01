@@ -62,7 +62,7 @@ title= ""
     <p>Her research spans Governance-by-design, assurance, and evaluation of AI in health; reproducible, privacy-preserving analytics at national scale via OpenSAFELY; UK health data infrastructure design and transparency; clinical and public health analytics; and the operationalisation of high-level ethical principles. She is currently supporting Wellcome’s national scoping for the UK Health Data Research Service (HDRS), analysing digital infrastructure to inform architecture, interoperability standards, and public trust.</p><a href="https://dec.yale.edu/jess-morley" target="_blank"> Link to organisational profile</a></p>
     <div class="keynote-session-info">
       <h4>Session Information</h4>
-      <p><strong>Title:</strong> AI and Decision-making in Health and Care.</p>
+      <p><strong>Title:</strong> AI and Decision-Making: Walking the Tightrope.</p>
       <p><strong>Date & Time:</strong> Wednesday 3 December, 01:30 PM</p>
     </div>
   </div>
