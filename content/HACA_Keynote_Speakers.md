@@ -62,30 +62,12 @@ title= ""
     <p>Her research spans Governance-by-design, assurance, and evaluation of AI in health; reproducible, privacy-preserving analytics at national scale via OpenSAFELY; UK health data infrastructure design and transparency; clinical and public health analytics; and the operationalisation of high-level ethical principles. She is currently supporting Wellcome’s national scoping for the UK Health Data Research Service (HDRS), analysing digital infrastructure to inform architecture, interoperability standards, and public trust.</p><a href="https://dec.yale.edu/jess-morley" target="_blank"> Link to organisational profile</a></p>
     <div class="keynote-session-info">
       <h4>Session Information</h4>
-      <p><strong>Title:</strong> TBC</p>
+      <p><strong>Title:</strong> AI and Decision-making in Health and Care.</p>
       <p><strong>Date & Time:</strong> Wednesday 3 December, 01:30 PM</p>
     </div>
   </div>
-
-  <!-- Keynote Card 4 -->
-  <div class="keynote-card">
-    <div class="keynote-card-header">
-      <img src="/img/Matt_H.png" alt="image of Matt Hennessey" class="keynote-avatar">
-      <div class="keynote-card-title">
-        <h3>Matt Hennessey</h3>
-        <p>Chief Intelligence and Analytics Officer at NHS Greater Manchester</p>
-      </div>
-    </div>
-    <p>Matt Hennessey is Chief Intelligence and Analytics Officer for NHS Greater Manchester. His career spans public health, intelligence, and leadership, beginning in criminal justice before moving into senior analytical and strategy roles across government and the NHS.</p>
-    <p>Matt has led regional and national programmes on drugs, alcohol, and violence prevention, and previously directed the North West intelligence service for Public Health England. He is an Honorary Senior Research Fellow at the University of Manchester, with expertise in applying analytics to system transformation and population health improvement.</p><a href="https://www.linkedin.com/in/matthennessey/" target="_blank"> Link to personal profile</a></p>
-    <div class="keynote-session-info">
-      <h4>Session Information</h4>
-      <p><strong>Title:</strong> The Curse of Data Driven Decision Making.</p>
-      <p><strong>Date & Time:</strong> Wednesday 3 December, 02:00 PM</p>
-    </div>
-  </div>
   
-  <!-- Keynote Card 5 -->
+  <!-- Keynote Card 4 -->
   <div class="keynote-card">
     <div class="keynote-card-header">
       <img src="/img/Steven_W.png" alt="image of Steven Wyatt" class="keynote-avatar">
@@ -103,7 +85,7 @@ title= ""
     </div>
   </div>
   
-  <!-- Keynote Card 6 -->
+  <!-- Keynote Card 5 -->
   <div class="keynote-card">
     <div class="keynote-card-header">
       <img src="/img/Dr-Minal-Bakhai-300x300.png" alt="image of Minal Bakhai" class="keynote-avatar">
@@ -121,7 +103,7 @@ title= ""
     </div>
   </div>
 
-  <!-- Keynote Card 7 -->
+  <!-- Keynote Card 6 -->
   <div class="keynote-card">
     <div class="keynote-card-header">
       <img src="/img/Sam_R.JPG" alt="image of Samantha Riley" class="keynote-avatar">
@@ -139,7 +121,7 @@ title= ""
     </div>
   </div>
   
-  <!-- Keynote Card 8 -->
+  <!-- Keynote Card 7 -->
   <div class="keynote-card">
     <div class="keynote-card-header">
       <img src="/img/Ally_M.png" alt="image of Alastair McAlpine" class="keynote-avatar">
@@ -155,6 +137,42 @@ title= ""
       <h4>Session Information</h4>
       <p><strong>Title:</strong> The People Behind the Data - How Stories, Not Dashboards, Change Policy.</p>
       <p><strong>Date & Time:</strong> Thursday 4 December, 01:50 PM</p>
+    </div>
+  </div>
+
+  <!-- Keynote Card 8-->
+  <div class="keynote-card">
+    <div class="keynote-card-header">
+      <img src="/img/Ben_Goldacre.jpg" alt="image of Ben Goldacre" class="keynote-avatar">
+      <div class="keynote-card-title">
+        <h3>Ben Goldacre</h3>
+        <p>Director at Bennett Institute of Applied Data Science</p>
+      </div>
+    </div>
+    <p>Ben is a doctor, academic, writer, and broadcaster. He trained in medicine at Oxford and UCL, in psychiatry at the Maudsley, and in epidemiology at LSHTM. His academic and policy work is in informatics, epidemiology and evidence based medicine, where he works on various problems including variation in care, better uses of routinely collected electronic health data, evidence-based social policy, access to clinical trial data, efficient trial design, and retracted papers.
+    <p>Ben runs the Bennett Institute for Applied Data Science. This is a multidisciplinary team of academics, clinicians and software developers, all pooling skills and knowledge to turn large datasets into tools and services as well as pure academic research papers. </p><a href="https://www.bennett.ox.ac.uk/about-us/ben-goldacre/" target="_blank"> Link to organisational profile</a></p>
+    <div class="keynote-session-info">
+      <h4>Session Information</h4>
+      <p><strong>Title:</strong> Closing of HACA 2025: Day 1</p>
+      <p><strong>Date & Time:</strong> Wednesday 3 December, 04:50 PM</p>
+    </div>
+  </div>
+
+  <!-- Keynote Card 9-->
+  <div class="keynote-card">
+    <div class="keynote-card-header">
+      <img src="/img/Andi_Orlowski.png" alt="image of Andi Orlowski" class="keynote-avatar">
+      <div class="keynote-card-title">
+        <h3>Andi Orlowski</h3>
+        <p>Director at Health Economics Unit</p>
+      </div>
+    </div>
+    <p>MAndi Orlowski is a health economist and the Director of the Health Economics Unit, an NHS organisation supporting health and care locally, regionally and nationally, providing expertise in economics, population health, analytics and evaluations.
+    <p>With a passion for population health analytics, Andi is excited about addressing health inequalities and the concept of impactibility modelling. He is researching this for his PhD at Imperial College London.</p><a href="https://healtheconomicsunit.nhs.uk/teams/andi-orlowski/" target="_blank"> Link to organisational profile</a></p>
+    <div class="keynote-session-info">
+      <h4>Session Information</h4>
+      <p><strong>Title:</strong> Closing of HACA 2025: Day 2</p>
+      <p><strong>Date & Time:</strong> Thursday 4 December, 04:40 PM</p>
     </div>
   </div>
 
