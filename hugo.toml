@@ -16,28 +16,16 @@ theme = "HACA_Theme"
     weight = 1
 
   [[menu.main]]
-    identifier = "HACA 2025 Registration"
-    name = "Registration"
-    url = "/HACA_Registration"
-    weight = 10
-
-  [[menu.main]]
-    identifier = "HACA 2025 Abstracts"
-    name = "Abstracts"
-    url = "/HACA_Abstracts"
-    weight = 20
-  
-  [[menu.main]]
     identifier = "HACA 2025 Keynote Speakers"
     name = "Keynote Speakers"
     url = "/HACA_Keynote_Speakers"
-    weight = 25
+    weight = 30
 
     [[menu.main]]
       identifier = "HACA 2025 Programme"
       name = "Programme"
       url = "/HACA_Programme"
-      weight = 30
+      weight = 20
 
       [[menu.main]]
         identifier = "Past Conferences"
