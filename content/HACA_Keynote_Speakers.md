@@ -6,11 +6,26 @@ title= ""
 <div class="alt-hero-banner">
   <div class="alt-hero-content">
     <h1>Keynote Speakers</h1>
-    <p>We're excited to welcome our keynote speakers — setting the tone for two days of ideas, impact, and connection.</p>
+    <p>Our keynote speakers for HACA 2025 helped set the tone for two days of ideas, impact, and connection. You can now watch their sessions on demand via the HACA YouTube channel and the conference platform.</p>
   </div>
 </div>
+<p class="custom-text">
+  You can now catch up on HACA 2025 on demand:
+</p>
+<ul>
+  <li>
+    <strong>HACA YouTube channel</strong> – keynotes, main stage, workshops, and all stream sessions<br>
+    <a href="https://www.youtube.com/@HACA_Conference" target="_blank">Link to Visit the HACA YouTube Channel</a>
+  </li>
+  <li>
+    <strong>Conference platform</strong> – full programme recordings, slides and virtual poster booths<br>
+    <a href="https://events.hubilo.com/health-and-care-analytics-conference/login" target="_blank">Link to Access the Conference Platform</a>
+  </li>
+</ul>
 
-<p>To access the full programme, including session details, speaker information, and the ability to build your own personalised schedule, please register for the conference and  join us on the online platform <a href="https://events.hubilo.com/health-and-care-analytics-conference/register" target="_blank"> Link to register for HACA 2025</a></p>
+<p>
+  Use the programme to help you find the sessions you are most interested in.
+</p>
 
 <div class="keynote-gallery">
   <!-- Keynote Card 1 -->
