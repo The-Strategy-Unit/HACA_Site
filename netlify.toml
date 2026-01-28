@@ -1,8 +1,9 @@
 
 [build]
-  command = "hugo"
+  command = "quarto render posters && hugo"
   publish = "public"
 
 [build.environment]
   HUGO_VERSION = "0.148.1"
+  QUARTO_VERSION = "1.4.550"
   

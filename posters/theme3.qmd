@@ -1,0 +1,393 @@
+# Targeting Care/Advancing Analytics
+
+This section showcases posters related to the Targeting Care/Advancing Analytics theme from HACA 2025.
+
+## Posters
+
+### Uncovering Hidden Carers: Data Insights Transforming Carer Support in Dorset
+
+**Authors**:
+
+- Chloe Grier, Deputy Head of System Analytics at Dorset Intelligence and Insight Service
+
+**Theme**: Inequalities & Access
+
+[View Full Poster (PDF)](posters/Theme3-Uncovering-Hidden-Carers.Data-Insights-Transforming-Carer-Support-in-Dorset.pdf)
+
+---
+
+### Empowering Communities as Analytical Partners: A Participatory Model to Uncover Barriers in NHS Health Checks
+
+**Authors**:
+
+- Muhammad Hossain, Lecturer in Public Health at Birmingham City University
+
+**Theme**: Capability & Profession
+
+[View Full Poster (PDF)](posters/Theme3-Empowering-Communities-as-Analytical-Partners.A-Participatory-Model-to-Uncover-Barriers-in-NHS-Health-Checks.pdf)
+
+---
+
+### Immunisation Surveillance as a Strategic Lever in Winter Pressure Planning
+
+**Authors**:
+
+- Lee Allen, Senior Business Insights Analyst at Walsall Council
+
+**Theme**: Inequalities & Access
+
+[View Full Poster (PDF)](posters/Theme3-Immunisation-Surveillance-as-a-Strategic-Lever-in-Winter-Pressure-Planning.pdf)
+
+---
+
+### Developing an effective public health intelligence course utilising a blended learning approach
+
+**Authors**:
+
+- Jo Wall, Principal Knowledge Transfer Facilitator at OHID, DHSC
+
+**Theme**: Capability & Profession
+
+[View Full Poster (PDF)](posters/Theme3-Developing-an-effective-public-health-intelligence-course-utilising-a-blended-learning-approach.pdf)
+
+---
+
+### Community Diagnostic Centre Planning: A Combined Analytics Approach to Public Access
+
+**Authors**:
+
+- Lee Harley, Senior BI Analyst for Public Health at Walsall Council
+- Karla Bailey, Senior Population Health Intelligence Specialist at The Royal Wolverhampton NHS Trust
+- Jason Gwinnett, Principal Population Health Intelligence Specialis at The Royal Wolverhampton NHS Trust
+
+**Theme**: Inequalities & Access
+
+[View Full Poster (PDF)](posters/Theme3-Community-Diagnostic-Centre-Planning.A-Combined-Analytics-Approach-to-Public-Access.pdf)
+
+---
+
+### From Outliers to Insight: Using Anomaly Detection to Strengthen NHS Oversight of Credit and Fuel Card Spend
+
+**Authors**:
+
+- Sangeetha Manjunath, Information Analyst at Mersey Internal Audit Agency (MIAA)
+
+**Theme**: Value & Investment
+
+[View Full Poster (PDF)](posters/Theme3-From-Outliers-to-Insight.Using-Anomaly-Detection-to-Strengthen-NHS-Oversight-of-Credit-and-Fuel-Card-Spend.pdf)
+
+---
+
+### Enhancing decision making in Perinatal Mental Health Services
+
+**Authors**: 
+
+- Simon Wickham, Associate Consultant Analyst at NHS Transformation Unit
+
+**Theme**: Inequalities & Access
+
+[View Full Poster (PDF)](posters/Theme3-Enhancing-decision-making-in-Perinatal-Mental-Health-Services.pdf)
+
+---
+
+### Workforce Perspectives on Local Authority Provision of Public Health Intelligence During COVID-19
+
+**Authors**:
+
+- Janette Parr, Research Associate at University of Birmingham
+
+**Theme**: Capability & Profession
+
+[View Full Poster (PDF)](posters/Theme3-Workforce-Perspectives-on-Local-Authority-Provision-of-Public-Health-Intelligence-During-COVID-19.pdf)
+
+---
+
+### Benchmarking cancer referrals in primary care: are we referring enough?
+
+**Authors**: 
+
+- Ibrahim Khan, Strategic Analyst at Suffolk County Council
+- Nicholas Philo, Senior Cancer Analyst at Suffolk and Northeast Essex Intelligence Funcion
+
+**Theme**: Methods & Tools
+
+[View Full Poster (PDF)](posters/Theme3-Benchmarking-cancer-referrals-in-primary-care.are-we-referring-enough.pdf)
+
+---
+
+### Data Querying using Natural Language
+
+**Authors**:
+
+- Abhinav Jindal, Data & Analytics Specialist at NIHR Research Delivery Network
+
+**Theme**: Capability & Profession
+
+[View Full Poster (PDF)](posters/Theme3-Data-Querying-using-Natural-Language.pdf)
+
+[View Poster Video (YouTube)](https://youtu.be/Z8ucIgV1qGk)
+
+---
+
+### The Epidemiology of Hereditary Spastic Paraplegia and its Association with Mental Health Outcomes in England and Northern Ireland
+
+**Authors**: 
+
+- Harini Jeyakumar, Healthy Behaviours Community Coordinator at Eastern Education Group
+- Joht Singh Chandan
+- Siang Ing Lee
+
+**Theme**: Inequalities & Access
+
+[View Full Poster (PDF)](posters/Theme3-The-Epidemiology-of-Hereditary-Spastic-Paraplegia-and-its-Association-with-Mental-Health-Outcomes-in-England-and-Northern-Ireland.pdf)
+
+---
+
+### From Data to Insight: Creating Interactive Theographs to Support Clinical Decision-Making
+
+**Authors**: 
+
+- Elliot Royle, Associate Consultant Analyst at Transformation Unit
+
+**Theme**: Methods & Tools
+
+[View Full Poster (PDF)](posters/Theme3-From-Data-to-Insight.Creating-Interactive-Theographs-to-Support-Clinical-Decision-Making.pdf)
+
+---
+
+### Walsall’s data-driven innovation to transform HIV testing, late-diagnosis, care, and support
+
+**Authors**: 
+
+- Akika Shibata, Business Insights Apprentice at Walsall Council
+- Claire Heath, Business Intelligence Directorate Lead at Walsall Council
+- David Walker
+- Uma Viswanathan
+- Vikki Tolley, Public Health Development Manager (Healthcare) at Walsall Council
+
+**Theme**: Inequalities & Access
+
+[View Full Poster (PDF)](posters/Theme3-Walsalls-data-driven-innovation-to-transform-HIV-testing-late-diagnosis-care-and-support.pdf)
+
+---
+
+### Baby and Toddler Conditions before Two years of Age in Suffolk and North East Essex
+
+**Authors**: 
+
+- Emma Holness, Data Analyst (Population Health Management) at Suffolk and North East Essex ICB
+
+**Theme**: Segmentation & Risk
+
+[View Full Poster (PDF)](posters/Theme3-Baby-and-Toddler-Conditions-before-Two-years-of-Age-in-Suffolk-and-North-East-Essex.pdf)
+
+---
+
+### Assessing Wellbeing Among Children and Young People: Findings from a Large-Scale Schools Survey in Swindon
+
+**Authors**: 
+
+- Dr Elli Kontostoli, Senior Public Health Analyst at Swindon Borough Council
+- Dr Anastasios Argyopoulos
+
+**Theme**: Methods & Tools
+
+[View Full Poster (PDF)](posters/Theme3-Assessing-Wellbeing-Among-Children-and-Young-People.Findings-from-a-Large-Scale-Schools-Survey-in-Swindon.pdf)
+
+---
+
+### Innovative spatial analysis help plan new services in south east London
+
+**Authors**: 
+
+- Jessica Roe, Head of Analytics at NHS South East London ICB
+- Julia Poduska, Senior Health Intelligence Analyst at NHS South East London ICB
+
+**Theme**: Inequalities & Access
+
+[View Full Poster (PDF)](posters/Theme3-Innovative-spatial-analysis-help-plan-new-services-in-south-east-London.pdf)
+
+---
+
+### Building the Lothian Public Health Indicators prototype dashboard using R Shiny: Reflections on process from a novice R Shiny app developer
+
+**Authors**: 
+
+- Sophie Mackintosh, Public Health Intelligence Analyst at NHS Lothian
+
+**Theme**: Capability & Profession
+
+[View Full Poster (PDF)](posters/Theme3-Building-the-Lothian-Public-Health-Indicators-prototype-dashboard-using-R-Shiny.Reflections-on-process-from-a-novice-R-Shiny-app-developer.pdf)
+
+---
+
+### An introduction to the Work and Health Regional Data Explorer
+
+**Authors**: 
+
+- Sylvia Godden
+- Mia Moilanen
+- Simon Orange
+- Greg Barbosa, Associate Director North West Local Knowledge and at DHSC
+- Nicola Corrigan
+
+**Theme**: Methods & Tools
+
+[View Full Poster (PDF)](posters/Theme3-An-introduction-to-the-Work-and-Health-Regional-Data-Explorer.pdf)
+
+---
+
+### Rising To The Challenge: use MY data and National Patient Data Day
+
+**Authors**: 
+
+- Elizabeth Lloyd-Owen, Communications & Media Lead at use MY data
+
+**Theme**: Patient Voices
+
+[View Full Poster (PDF)](posters/Theme3-Rising-To-The-Challenge.use-MY-data-and-National-Patient-Data-Day.pdf)
+
+[View Poster Video (YouTube)](https://youtu.be/QopEG2s7sOY)
+
+---
+
+### Increasing the Uptake of NHS Health Checks in Walsall
+
+**Authors**: 
+
+- Gemma Russell, Business Insights Analyst at Walsall Council
+
+**Theme**: Inequalities & Access
+
+[View Full Poster (PDF)](posters/Theme3-Increasing-the-Uptake-of-NHS-Health-Checks-in-Walsall.pdf)
+
+---
+
+### A Bespoke Mapping Tool for Pharmaceutical Needs Assessment: Enhancing Efficiency Through Data Science
+
+**Authors**: 
+
+- Wilson Otitonaiye, Data Scientist at Dorset Council
+
+**Theme**: Inequalities & Access
+
+[View Full Poster (PDF)](posters/Theme3-A-Bespoke-Mapping-Tool-for-Pharmaceutical-Needs-Assessment.Enhancing-Efficiency-Through-Data-Science.pdf)
+
+---
+
+### Multi-Morbidity Model of Care – Analysis to Evaluate Project Impact in South East London
+
+**Authors**: 
+
+- Cameron Bebbington, Health Intelligence Manager at NHS South East London ICB
+- Esther Negbenose, Senior Health Intelligence Analyst at NHS South East London Integrated Care Board
+
+**Theme**: Segmentation & Risk
+
+[View Full Poster (PDF)](posters/Theme3-Multi-Morbidity-Model-of-Care-Analysis-to-Evaluate-Project-Impact-in-South-East-London.pdf)
+
+---
+
+### Co-Produced Evaluation Framework: Logic Model Development for Rough Sleeper Substance Misuse Services
+
+**Authors**:
+
+- Hayley Haynes, Public Health Analyst at Dorset Council
+
+**Theme**: Outcomes & Evaluation
+
+[View Full Poster (PDF)](posters/Theme3-Co-Produced-Evaluation-Framework.Logic-Model-Development-for-Rough-Sleeper-Substance-Misuse-Services.pdf)
+
+---
+
+### Advancing analytical skills of the Public Health Division: designing and delivering an Introduction to R for Public Health course
+
+**Authors**:
+
+- Eloise Watkin, Analysis & Data Visualisation Officer at Birmingham City Council
+
+**Theme**: Capability & Profession
+
+[View Full Poster (PDF)](posters/Theme3-Advancing-analytical-skills-of-the-Public-Health-Division.designing-and-delivering-an-Introduction-to-R-for-Public-Health-course.pdf)
+
+---
+
+### Exploration of NHS Health Check uptake and delivery in Suffolk and North East Essex
+
+**Authors**:
+
+- Laura Bowen, Senior Information Analyst at Suffolk and North East Essex ICB
+
+**Theme**: Inequalities & Access
+
+[View Full Poster (PDF)](posters/Theme3-Exploration-of-NHS-Health-Check-uptake-and-delivery-in-Suffolk-and-North-East-Essex.pdf)
+
+---
+
+### Ethnic disparities in migraine prevalence, prescribing, and hospitalisation: Insights from Birmingham’s Pakistani population
+
+**Authors**: 
+
+- Daniel Slater, Data Analyst and Visualisation Officer at Birmingham City Council
+- Hajrah Khan
+- David Ellis
+
+**Theme**: Inequalities & Access
+
+[View Full Poster (PDF)](posters/Theme3-Ethnic-disparities-in-migraine-prevalence-prescribing-and-hospitalisation.Insights-from-Birmingham-Pakistani-population.pdf)
+
+---
+
+### Enhancing Early Warning Systems: Moving Beyond Current NDTMS Approaches
+
+**Authors**:
+
+- Chung Him Au Yeung, Programme Senior Officer at Birmingham City Council
+
+**Theme**: Methods & Tools
+
+[View Full Poster (PDF)](posters/Theme3-Enhancing-Early-Warning-Systems.Moving-Beyond-Current-NDTMS-Approaches.pdf)
+
+---
+
+### Co-Producing More Effective Public Health Intelligence During Our Pandemic Response: An Evaluation of SEIR Modelling and Enhanced Stakeholder Engagement during the COVID-19 Pandemic
+
+**Authors**: 
+
+- Natasha Morris, Team Leader Intelligence at Dorset Council
+- Chris Skelly, Analytical Programme Manager at Department of Health and Social Care
+
+**Theme**: Methods & Tools
+
+[View Full Poster (PDF)](posters/Theme3-Co-Producing-More-Effective-Public-Health-Intelligence-During-Our-Pandemic-Response.An-Evaluation-of-SEIR-Modelling-and-Enhanced-Stakeholder-Engagement-during-the-COVID-19-Pandemic.pdf)
+
+---
+
+### Skin tags to DICOM Tags: Advancing Dermatology Imaging for AI Research
+
+**Authors**: 
+
+- Alupha Chan, Research IT Facilitator at NHS Tayside
+- James Friel, Senior Research Software engineer
+
+**Theme**: Methods & Tools
+
+[View Full Poster (PDF)](posters/Theme3-Skin-tags-to-DICOM-Tags.Advancing-Dermatology-Imaging-for-AI-Research.pdf)
+
+---
+
+### Commit to Learning: Upskilling our Team with GitHub
+
+**Authors**: 
+
+- Sarah Blincko, Senior Analytical Manager at NHS England
+- Grace Dean, Senior Analyst at NHS England - South East Data & Analytics team
+
+**Theme**: Capability & Profession
+
+[View Full Poster (PDF)](posters/Theme3-Commit-to-Learning.Upskilling-our-Team-with-GitHub.pdf)
+
+---
+
+[Back to Home](index.qmd) | [HACA Main Site](https://haca-conference.nhs.uk/)
+

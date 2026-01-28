@@ -2,6 +2,17 @@ baseURL = "https://haca-conference.nhs.uk/"
 title = "Health and Care Analytics conference"
 theme = "HACA_Theme"
 
+[module]
+  [[module.mounts]]
+    source = "posters/_book"
+    target = "static/posters"
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+  [[module.mounts]]
+    source = "content"
+    target = "content"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -16,22 +27,22 @@ theme = "HACA_Theme"
     weight = 1
 
   [[menu.main]]
+    identifier = "HACA 2025 Programme"
+    name = "Programme"
+    url = "/HACA_Programme"
+    weight = 20
+
+  [[menu.main]]
     identifier = "HACA 2025 Keynote Speakers"
     name = "Keynote Speakers"
     url = "/HACA_Keynote_Speakers"
     weight = 30
 
-    [[menu.main]]
-      identifier = "HACA 2025 Programme"
-      name = "Programme"
-      url = "/HACA_Programme"
-      weight = 20
-
-      [[menu.main]]
-        identifier = "Past Conferences"
-        name = "Past Conferences"
-        url = "/HACA_Past_Conferences"
-        weight = 40
+  [[menu.main]]
+    identifier = "Past Conferences"
+    name = "Archive"
+    url = "/HACA_Past_Conferences"
+    weight = 40
       
 [params]
 

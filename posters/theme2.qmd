@@ -1,0 +1,82 @@
+# Improving Flow
+
+This section showcases posters related to Improving Flow theme from HACA 2025.
+
+## Posters
+
+### Simplifying hospital flow measures - distilling a complex concept for an operational audience
+
+**Authors**: 
+
+- Laura Birks, Senior Analyst at NHS England
+ 
+**Theme**: Reducing Delays & Bottlenecks
+
+[View Full Poster (PDF)](posters/Theme2-Simplifying-hospital-flow-measures-distilling-a-complex-concept-for-an-operational-audience.pdf)
+
+---
+
+### From Process Maps to Data-Driven Insights: A Novel Methodology for Quantifying Process Map Data in Healthcare
+
+**Authors**:
+
+- Jennifer Sloane, Research Health Science Specialist at Department of Veterans Affairs
+
+**Theme**: Demand & Capacity Planning
+
+[View Full Poster (PDF)](posters/Theme2-From-Process-Maps-to-Data-Driven-Insights.A-Novel-Methodology-for-Quantifying-Process-Map-Data-in-Healthcare.pdf)
+
+---
+
+### 'Not everything is a PhD': The pragmatics of undertaking health data research and analytics in Local Authority
+
+**Authors**:
+
+- Maddy Leather, Public Health Manager at Nottingham City Council
+
+**Theme**: Demand & Capacity Planning
+
+[View Full Poster (PDF)](posters/Theme2-Not-everything-is-a-PhD-The-pragmatics-of-undertaking-health-data-research-and-analytics-in-Local-Authority.pdf)
+
+[View Poster Video (YouTube)](https://youtu.be/8uy8D7ecW54)
+
+---
+
+### A comparison of pre- and post-pandemic monthly surgery trends in the English NHS: a time series analysis
+
+**Authors**:
+
+- Mary Muthoni Kariuki, Research and Data Analyst at University Hospitals Birmingham
+
+**Theme**: Inequalities & Access
+
+[View Full Poster (PDF)](posters/Theme2-A-comparison-of-pre-and-post-pandemic-monthly-surgery-trends-in-the-English-NHS.a-time-series-analysis.pdf)
+
+---
+
+### Analogue to Digital: A Cost Benefit Analysis on Digitising the Annual Risk Assessment Form (ARAF) for Valproate
+
+**Authors**: 
+
+- Najam Mughal, Senior Analyst at NHS England
+
+**Theme**: Modelling & Simulation
+
+[View Full Poster (PDF)](posters/Theme2-Analogue-to-Digital.A-Cost-Benefit-Analysis-on-Digitising-the-Annual-Risk-Assessment-Form-ARAF-for-Valproate.pdf)
+
+---
+
+### The Financial and strategic impact of accurate coding in elective orthopaedic surgery: A retrospective study
+
+**Authors**: 
+
+- Rukayya Usman, Doctor at North Middlesex University Hospital
+
+**Theme**: Demand & Capacity Planning
+
+[View Full Poster (PDF)](posters/Theme2-The-Financial-and-strategic-impact-of-accurate-coding-in-elective-orthopaedic-surgery.A-retrospective-study.pdf)
+
+---
+
+[Back to Home](index.qmd) | [HACA Main Site](https://haca-conference.nhs.uk/)
+

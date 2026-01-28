@@ -1,0 +1,25 @@
+# Welcome to HACA 2025 Posters
+
+This collection showcases the poster presentations from the Health and Care Analytics Conference 2025, held on 3-4 December 2025.
+
+## About the Posters
+
+Each poster appears as a PDF document, presented as submitted by its authors. This volume includes only those posters where presenters consented to make their work downloadable. We are grateful to all contributors who agreed to share their work in this format, enabling wider dissemination of analytical approaches and findings.
+
+## Navigation
+
+Browse posters by theme:
+
+- [Shift to Community](theme1.qmd) - Work on moving care closer to where people live
+- [Improving Flow](theme2.qmd) - Analyses that reduce waste and improve patient journeys  
+- [Targeting Care/Advancing Analytics](theme3.qmd) - Using data to target resources and developing analytical methods
+
+## Conference Theme
+
+**Rising to the challenge: Analysis at the heart of health and care systems of the future**
+
+These posters embody our conference ethos: *by analysts, for analysts, with leaders* – showcasing how analysis drives better decisions in health and care.
+
+---
+
+[Return to main HACA website](https://haca-conference.nhs.uk/)

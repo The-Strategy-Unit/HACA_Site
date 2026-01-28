@@ -1,0 +1,143 @@
+/* HACA Posters Book - Matching Main Site Styles */
+
+/* HACA Brand Colors */
+:root {
+  --haca-pink: #ae2573;
+  --haca-purple: #5a0a96;
+  --bg: #ffffff;
+  --text: #222;
+}
+
+/* Base Typography */
+body {
+  color: var(--text);
+  font-size: 125%;
+  line-height: 1.6;
+  letter-spacing: 0.02em;
+}
+
+a {
+  color: var(--haca-pink);
+  text-decoration: underline;
+  font-weight: 600;
+}
+
+h1, h2, h5, h6 {
+  color: var(--haca-pink);
+  text-align: center;
+}
+
+h3, h4 {
+  color: var(--haca-purple);
+  text-align: center;
+}
+
+/* Quarto Title Block */
+.quarto-title-block {
+  background: linear-gradient(135deg, var(--haca-pink) 0%, var(--haca-purple) 100%);
+  color: white;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.quarto-title .title {
+  color: white !important;
+  margin-bottom: 1rem;
+}
+
+.quarto-title .author,
+.quarto-title .date {
+  color: rgba(255, 255, 255, 0.95);
+}
+
+/* Navbar - HACA Pink */
+.navbar {
+  background-color: var(--haca-pink) !important;
+}
+
+.navbar-brand,
+.navbar .navbar-nav .nav-link {
+  color: white !important;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+/* Poster Entry Cards */
+.poster-entry {
+  border: 1px solid #e0e0e0;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+
+.poster-entry h3 {
+  color: var(--haca-pink);
+  margin-top: 0;
+  text-align: left;
+}
+
+.poster-meta {
+  font-style: italic;
+  color: #666;
+  margin-bottom: 1rem;
+}
+
+/* Custom Text Styles */
+.custom-text {
+  color: var(--haca-purple);
+  font-size: 1.6rem;
+  font-weight: bold;
+}
+
+.custom-text1 {
+  color: var(--haca-pink);
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+/* Conference Banner */
+.conference-banner {
+  background-color: var(--haca-purple);
+  color: #ffffff;
+  padding: 15px 20px;
+  border-radius: 8px;
+  text-align: center;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2rem 0;
+  font-size: 1.05rem;
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+
+table th,
+table td {
+  border: 1px solid #e0e0e0;
+  padding: 0.75rem 1rem;
+  text-align: left;
+}
+
+table th {
+  background: var(--haca-purple);
+  color: #fff;
+  font-weight: 600;
+}
+
+table tr:nth-child(even) {
+  background: #f6f8fa;
+}
+
+table tr:hover {
+  background: #eae6f7;
+}

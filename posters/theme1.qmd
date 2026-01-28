@@ -1,0 +1,127 @@
+# Shift to Community
+
+This section showcases posters related to the Shift to Community theme from HACA 2025.
+
+## Posters
+
+### Harnessing Data to Tackle Health Inequalities in Shropshire, Telford and Wrekin
+
+**Authors**:
+
+- Craig Kynaston, Head of Business Intelligence and Analytics at Shropshire Telford and Wrekin ICB
+
+**Theme**: Pathway Redesign & Community Models
+
+[View Full Poster (PDF)](posters/Theme1-Harnessing-Data-to-Tackle-Health-Inequalities-in-Shropshire-Telford-and-Wrekin.pdf)
+
+---
+
+### Beyond the Numbers: Embedding Lived Experience into Data with Creative Insight
+
+**Authors**: 
+
+- Helen Butters, Communications and Engagement Lead NDL at West Yorkshire Integrated Care Board (leeds Place)
+- Anna Palczewska
+
+**Theme**: Pathway Redesign & Community Models
+
+[View Full Poster (PDF)](posters/Theme1-Beyond-the-Numbers.Embedding-Lived-Experience-into-Data-with-Creative-Insight.pdf)
+
+[View Poster Video (YouTube)](https://youtu.be/AkSyDvuZA2g)
+
+---
+
+### UPRNs - getting in a FLAP
+
+**Authors**:
+
+- Julian Augley, Senior Information Analyst at NHS Lothian
+
+**Theme**: Pathway Redesign & Community Models
+
+[View Full Poster (PDF)](posters/Theme1-UPRNs-getting-in-a-FLAP.pdf)
+
+---
+
+### The Leading Causes of Mortality in London
+
+**Authors**:
+
+- Sylvia Godden, Principal Knowledge Translator Facilitator at Office for Health Improvement and Disparities
+
+**Theme**: Pathway Redesign & Community Models
+
+[View Full Poster (PDF)](posters/Theme1-The-Leading-Causes-of-Mortality-in-London.pdf)
+
+---
+
+### An example of evaluating population level interventions: Health Impacts of a Clean Air Zone
+
+**Authors**:
+
+- Eloise Watkin
+- David Ellis
+- Daniel Slater
+- Chung Au-Yeung
+- Evelyn Greeves
+
+**Theme**: Inequalities & Access
+
+[View Full Poster (PDF)](posters/Theme1-An-example-of-evaluating-population-level-interventions.Health-Impacts-of-a-Clean-Air-Zone.pdf)
+
+---
+
+### Identifying long stay hospital patients in Suffolk and North East Essex
+
+**Authors**: 
+
+- Joseph Lillington, Lead Data Analyst - PHM at NHS Suffolk and North East Essex ICB
+
+**Theme**: Pathway Redesign & Community Models
+
+[View Full Poster (PDF)](posters/Theme1-Identifying-long-stay-hospital-patients-in-Suffolk-and-North-East-Essex.pdf)
+
+---
+
+### Using CLD data to assess the causes of discharge delays
+
+**Authors**:
+
+- James Edholm, Team leader: Discharge Analysis at Department for Health and Social Care
+
+**Theme**: Interfaces & Admission Avoidance
+
+[View Full Poster (PDF)](posters/Theme1-Using-CLD-data-to-assess-the-causes-of-discharge-delays.pdf)
+
+---
+
+### Regional variation in place of death as a quality measure in patients with poor prognosis cancer
+
+**Authors**: 
+
+- Piyumanga Karunaratne, Research Assistant (Cancer Informatics) at University of Edinburgh
+- Peter S Hall
+- Maheva Vallet, Senior research manager at University of Edinburgh/NHS Lothian
+- Giovanni Tramonti
+
+**Theme**: Pathway Redesign & Community Models
+
+[View Full Poster (PDF)](posters/Theme1-Regional-variation-in-place-of-death-as-a-quality-measure-in-patients-with-poor-prognosis-cancer.pdf)
+
+[View Poster Video (YouTube)](https://youtu.be/258QE-sjoq4)
+
+---
+
+### Can the Electronic Prescription Service reduce pressure on hospitals?
+
+**Authors**:
+
+- Gayathri Kumar, Lead Health Economist at Health Economics Unit
+
+**Theme**: Pathway Redesign & Community Models
+
+[View Full Poster (PDF)](posters/Theme1-Can-the-Electronic-Prescription-Service-reduce-pressure-on-hospitals.pdf)
+
+---
+
+[Back to Home](index.qmd) | [HACA Main Site](https://haca-conference.nhs.uk/)

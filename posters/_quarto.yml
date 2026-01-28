@@ -1,0 +1,29 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "HACA 2025 Conference Posters"
+  page-navigation: true
+  
+  chapters:
+    - index.qmd
+    - theme1.qmd
+    - theme2.qmd
+    - theme3.qmd
+
+  navbar:
+    background: primary
+    search: true
+    right:
+      - text: "Back to HACA Site"
+        href: https://haca-conference.nhs.uk/
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    link-external-icon: true
+    number-sections: false
+    link-external-newwindow: true
