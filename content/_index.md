@@ -53,7 +53,7 @@ HACA 2025 was brought to you by [The Strategy Unit](https://www.strategyunitwm.n
 
 Our 2025 theme, <p class="custom-text">Rising to the challenge: Analysis at the heart of health and care systems of the future</p> recognised the pivotal role of analytics (and analysts) in shaping future-ready services, informing policy, and driving innovation across the sector.{{< /accordion >}}
 
-{{< accordion title="Why Attend?" >}}  HACA 2025 featured an exciting programme with speakers from across the UK, including thought-provoking plenary sessions, learning sessions, poster presentations and workshops.
+{{< accordion title="Why People Attended?" >}}  HACA 2025 featured an exciting programme with speakers from across the UK, including thought-provoking plenary sessions, learning sessions, poster presentations and workshops.
 
 <p>The conference was open to and free to attend for staff working in health and social care in the public sector in the UK. It gave attendees the opportunity:</p>
 
